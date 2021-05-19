@@ -1,0 +1,2999 @@
+Time,State,Emotion,Yaw,Pitch,Roll
+20.50s,Attentive,sad,6,8,2
+20.72s,Attentive,happy,14,12,9
+20.84s,Attentive,happy,24,9,7
+20.94s,Attentive,happy,23,8,6
+21.05s,Attentive,neutral,25,6,8
+21.15s,Attentive,happy,25,2,10
+21.26s,Attentive,neutral,24,4,9
+21.36s,Attentive,neutral,14,11,8
+21.47s,Attentive,happy,21,1,8
+21.57s,Attentive,happy,18,2,4
+21.68s,Attentive,neutral,14,4,7
+21.78s,Attentive,neutral,8,6,5
+21.89s,Attentive,neutral,4,6,2
+21.99s,Attentive,neutral,4,5,1
+22.10s,Attentive,neutral,2,6,1
+22.21s,Attentive,neutral,2,6,0
+22.31s,Attentive,neutral,0,7,0
+22.41s,Attentive,neutral,2,8,0
+22.52s,Attentive,neutral,5,7,0
+22.62s,Attentive,neutral,3,8,0
+22.73s,Attentive,neutral,5,6,0
+22.83s,Attentive,neutral,6,5,0
+22.94s,Attentive,neutral,8,3,0
+23.05s,Attentive,neutral,6,2,0
+23.15s,Attentive,neutral,2,2,0
+23.26s,Attentive,neutral,3,1,0
+23.36s,Attentive,neutral,2,2,0
+23.47s,Attentive,neutral,7,0,1
+23.58s,Attentive,neutral,1,1,1
+23.68s,Attentive,neutral,3,3,1
+23.79s,Attentive,neutral,5,2,2
+23.89s,Attentive,neutral,8,1,2
+24.00s,Attentive,neutral,8,2,2
+24.10s,Attentive,neutral,5,3,1
+24.23s,Attentive,neutral,3,3,2
+24.39s,Attentive,neutral,7,5,2
+24.51s,Attentive,neutral,6,5,2
+24.62s,Attentive,neutral,5,5,2
+24.72s,Attentive,neutral,3,4,2
+24.84s,Attentive,neutral,5,7,2
+24.95s,Attentive,neutral,7,8,1
+25.05s,Attentive,neutral,7,8,2
+25.16s,Attentive,neutral,5,7,2
+25.26s,Attentive,neutral,6,7,2
+25.37s,Not Attentive,neutral,4,7,2
+25.47s,Not Attentive,neutral,6,8,2
+25.58s,Attentive,neutral,4,6,2
+25.68s,Attentive,neutral,9,8,2
+25.79s,Attentive,neutral,11,8,3
+25.89s,Attentive,neutral,12,3,3
+26.00s,Attentive,neutral,20,7,6
+26.10s,Not Attentive,neutral,27,1,0
+26.21s,Not Attentive,neutral,27,7,5
+26.46s,Attentive,neutral,23,3,6
+26.57s,Attentive,neutral,24,9,4
+26.67s,Attentive,happy,12,11,6
+26.79s,Attentive,happy,14,7,8
+26.90s,Attentive,neutral,13,8,7
+27.00s,Attentive,neutral,8,1,2
+27.11s,Attentive,neutral,3,4,3
+27.21s,Attentive,neutral,3,8,1
+27.32s,Attentive,neutral,1,7,1
+27.44s,Attentive,neutral,-3,8,1
+27.58s,Attentive,neutral,-5,6,0
+27.72s,Attentive,neutral,-6,7,-1
+27.92s,Attentive,neutral,-8,9,-1
+28.06s,Attentive,neutral,-7,12,-2
+28.22s,Attentive,neutral,-8,14,-3
+28.35s,Attentive,neutral,-5,12,-2
+28.47s,Attentive,neutral,-4,10,-3
+28.58s,Attentive,neutral,-4,11,-2
+28.81s,Attentive,neutral,0,11,0
+28.92s,Attentive,neutral,-3,9,-1
+29.04s,Attentive,neutral,-2,9,-1
+29.15s,Attentive,neutral,0,8,0
+29.26s,Attentive,neutral,0,5,0
+29.36s,Attentive,neutral,-2,6,-1
+29.47s,Attentive,neutral,0,7,0
+29.58s,Attentive,neutral,0,5,0
+29.69s,Attentive,neutral,5,7,0
+29.80s,Attentive,neutral,3,7,0
+29.91s,Attentive,neutral,3,8,0
+30.02s,Attentive,neutral,0,10,0
+30.12s,Attentive,neutral,5,11,0
+30.26s,Attentive,neutral,6,18,0
+30.38s,Attentive,neutral,5,20,0
+30.49s,Attentive,neutral,5,21,-1
+30.59s,Attentive,neutral,3,20,-3
+30.71s,Attentive,neutral,1,21,-3
+30.81s,Not Attentive,neutral,-2,21,-4
+30.92s,Attentive,neutral,0,20,-4
+31.03s,Attentive,neutral,0,21,-3
+31.15s,Attentive,neutral,-3,21,-2
+31.35s,Attentive,neutral,-2,22,-3
+31.56s,Attentive,neutral,-1,23,-1
+31.75s,Attentive,happy,0,15,-1
+31.86s,Attentive,neutral,-2,8,-2
+31.97s,Attentive,happy,-3,1,-2
+32.08s,Attentive,sad,-1,-1,-2
+32.18s,Attentive,happy,-4,4,-2
+32.29s,Attentive,neutral,0,5,-3
+32.39s,Attentive,neutral,-4,6,-2
+32.50s,Attentive,neutral,-3,5,-2
+32.60s,Attentive,neutral,-4,7,-2
+32.71s,Attentive,neutral,-3,7,-1
+32.82s,Attentive,neutral,-1,5,-1
+32.93s,Attentive,neutral,0,5,-1
+33.03s,Attentive,neutral,0,6,0
+33.08s,Attentive,neutral,0,6,0
+33.13s,Attentive,neutral,0,6,0
+33.18s,Attentive,neutral,0,6,0
+33.23s,Attentive,neutral,0,6,0
+33.51s,Not Attentive,neutral,29,7,13
+33.63s,Not Attentive,neutral,30,7,11
+33.74s,Not Attentive,neutral,30,5,11
+33.85s,Not Attentive,neutral,29,5,11
+33.96s,Not Attentive,happy,31,3,11
+34.12s,Not Attentive,neutral,29,4,13
+34.28s,Not Attentive,neutral,29,0,9
+34.45s,Attentive,neutral,21,-1,7
+34.62s,Attentive,neutral,15,-1,7
+34.79s,Attentive,neutral,17,-1,6
+34.95s,Attentive,neutral,17,-2,4
+35.11s,Attentive,neutral,15,-2,5
+35.27s,Attentive,neutral,7,-2,3
+35.43s,Not Attentive,sad,-27,18,3
+35.60s,Attentive,neutral,8,1,2
+35.76s,Attentive,sad,-23,19,4
+35.92s,Attentive,neutral,10,1,2
+36.08s,Not Attentive,neutral,9,3,1
+36.24s,Attentive,neutral,0,3,0
+36.40s,Attentive,neutral,-2,3,0
+36.56s,Not Attentive,happy,-12,15,10
+36.73s,Attentive,happy,-9,16,11
+36.89s,Not Attentive,happy,-8,18,6
+37.05s,Not Attentive,happy,-8,21,1
+37.21s,Not Attentive,happy,-8,21,1
+37.38s,Attentive,happy,-8,19,1
+37.54s,Not Attentive,happy,-10,20,1
+37.70s,Not Attentive,happy,-11,20,2
+37.87s,Not Attentive,happy,-10,19,3
+38.03s,Not Attentive,happy,-12,20,3
+38.20s,Not Attentive,happy,-10,20,2
+38.36s,Not Attentive,happy,-12,21,2
+38.52s,Not Attentive,happy,-12,19,2
+38.68s,Attentive,neutral,-20,20,-2
+38.85s,Attentive,neutral,-22,19,-3
+39.01s,Attentive,sad,-25,19,-2
+39.17s,Not Attentive,sad,-27,17,-2
+39.34s,Not Attentive,sad,-29,15,-2
+39.69s,Not Attentive,sad,-27,17,-2
+39.93s,Attentive,neutral,15,2,2
+40.20s,Attentive,neutral,19,4,4
+40.40s,Not Attentive,neutral,16,7,2
+40.56s,Attentive,neutral,-11,-1,4
+40.66s,Attentive,neutral,-22,8,2
+40.77s,Attentive,neutral,-20,9,2
+40.88s,Attentive,neutral,-19,7,4
+40.99s,Attentive,sad,-20,8,4
+41.09s,Attentive,neutral,-18,9,3
+41.20s,Attentive,neutral,-21,8,3
+41.30s,Attentive,neutral,-18,9,3
+41.47s,Attentive,neutral,-16,7,4
+41.58s,Attentive,neutral,-18,7,4
+41.68s,Attentive,happy,-18,8,3
+41.79s,Attentive,neutral,-18,10,3
+41.90s,Attentive,neutral,-23,8,3
+42.00s,Attentive,happy,-20,9,3
+42.11s,Attentive,neutral,-21,8,3
+42.21s,Attentive,happy,-15,6,4
+42.32s,Attentive,neutral,-18,5,3
+42.43s,Attentive,happy,-16,4,4
+42.53s,Attentive,happy,-17,5,4
+42.63s,Attentive,happy,-15,5,5
+42.75s,Attentive,happy,-18,5,4
+42.85s,Attentive,happy,-18,7,3
+42.95s,Not Attentive,happy,-20,5,5
+43.06s,Attentive,happy,-25,4,1
+43.17s,Not Attentive,happy,-35,4,0
+43.22s,Not Attentive,happy,-35,4,0
+43.26s,Not Attentive,happy,-35,4,0
+43.31s,Not Attentive,happy,-35,4,0
+43.36s,Not Attentive,happy,-35,4,0
+43.41s,Not Attentive,happy,-35,4,0
+43.46s,Not Attentive,happy,-35,4,0
+43.51s,Not Attentive,happy,-35,4,0
+43.56s,Not Attentive,happy,-35,4,0
+43.61s,Not Attentive,happy,-35,4,0
+43.65s,Not Attentive,happy,-35,4,0
+43.70s,Not Attentive,happy,-35,4,0
+43.76s,Not Attentive,happy,-35,4,0
+43.81s,Not Attentive,happy,-35,4,0
+43.85s,Not Attentive,happy,-35,4,0
+43.90s,Not Attentive,happy,-35,4,0
+43.95s,Not Attentive,happy,-35,4,0
+44.00s,Not Attentive,happy,-35,4,0
+44.05s,Not Attentive,happy,-35,4,0
+44.10s,Not Attentive,happy,-35,4,0
+44.15s,Not Attentive,happy,-35,4,0
+44.20s,Not Attentive,happy,-35,4,0
+44.24s,Not Attentive,happy,-35,4,0
+44.30s,Not Attentive,happy,-35,4,0
+44.35s,Not Attentive,happy,-35,4,0
+44.41s,Not Attentive,happy,-35,4,0
+44.51s,Not Attentive,happy,-36,7,-3
+44.62s,Not Attentive,happy,-32,4,-2
+44.73s,Not Attentive,happy,-27,3,0
+44.84s,Not Attentive,happy,-18,3,1
+44.94s,Not Attentive,happy,-14,3,2
+45.05s,Not Attentive,happy,-13,2,4
+45.15s,Not Attentive,happy,-13,3,4
+45.26s,Attentive,happy,-11,3,6
+45.36s,Not Attentive,happy,-8,4,12
+45.47s,Not Attentive,happy,-11,4,12
+45.58s,Not Attentive,happy,-9,5,14
+45.68s,Attentive,happy,-11,3,15
+45.80s,Attentive,happy,-5,7,17
+45.90s,Attentive,neutral,-6,8,17
+46.01s,Attentive,happy,-5,8,18
+46.11s,Attentive,happy,-8,8,19
+46.22s,Attentive,happy,-11,8,19
+46.33s,Attentive,happy,-12,7,20
+46.43s,Attentive,happy,-15,8,20
+46.54s,Attentive,happy,-9,6,20
+46.65s,Attentive,happy,-12,6,21
+46.77s,Attentive,happy,-9,6,20
+46.92s,Attentive,happy,-9,7,21
+47.03s,Attentive,happy,-6,5,21
+47.13s,Attentive,happy,-5,4,22
+47.24s,Attentive,happy,-6,4,21
+47.35s,Attentive,happy,-6,3,21
+47.45s,Not Attentive,happy,-7,3,21
+47.56s,Attentive,happy,-7,3,22
+47.67s,Not Attentive,happy,-7,4,22
+47.77s,Not Attentive,happy,-6,4,22
+47.88s,Attentive,happy,-5,1,21
+47.99s,Not Attentive,happy,-9,5,22
+48.10s,Attentive,happy,-6,6,22
+48.20s,Not Attentive,happy,-7,2,22
+48.31s,Not Attentive,happy,-8,6,22
+48.42s,Not Attentive,happy,-8,6,22
+48.53s,Not Attentive,happy,-4,2,21
+48.63s,Not Attentive,happy,-6,3,21
+48.74s,Attentive,happy,-8,2,22
+48.85s,Not Attentive,happy,-6,0,21
+48.95s,Not Attentive,happy,-6,2,22
+49.06s,Attentive,happy,-7,3,21
+49.16s,Not Attentive,happy,-7,3,21
+49.27s,Not Attentive,happy,-9,5,21
+49.37s,Attentive,happy,-6,4,20
+49.49s,Not Attentive,happy,-10,7,19
+49.59s,Not Attentive,happy,-2,7,20
+49.70s,Attentive,happy,-4,9,20
+49.81s,Not Attentive,happy,-6,9,19
+49.92s,Not Attentive,happy,-8,9,19
+50.03s,Not Attentive,happy,-4,7,20
+50.13s,Attentive,happy,-6,8,19
+50.24s,Attentive,happy,-6,8,19
+50.34s,Attentive,happy,-8,10,17
+50.45s,Attentive,happy,-14,12,16
+50.55s,Attentive,happy,-14,12,14
+50.66s,Not Attentive,sad,-16,11,12
+50.77s,Attentive,sad,-19,11,11
+50.87s,Attentive,happy,-12,13,9
+50.98s,Attentive,happy,-20,14,5
+51.10s,Attentive,happy,-9,15,8
+51.20s,Attentive,sad,-16,14,5
+51.31s,Attentive,sad,-20,13,4
+51.42s,Attentive,neutral,-19,14,3
+51.52s,Attentive,sad,-16,15,5
+51.62s,Attentive,sad,-11,17,6
+51.73s,Attentive,sad,-8,19,6
+51.84s,Attentive,neutral,-8,20,5
+51.94s,Attentive,neutral,-7,19,5
+52.05s,Attentive,sad,0,16,5
+52.16s,Attentive,neutral,-3,16,5
+52.26s,Attentive,sad,-5,15,4
+52.37s,Attentive,neutral,-2,14,4
+52.48s,Attentive,sad,-4,13,4
+52.58s,Attentive,neutral,-5,12,3
+52.69s,Attentive,sad,-5,8,3
+52.80s,Attentive,neutral,-2,7,3
+52.91s,Attentive,neutral,-3,7,3
+53.01s,Attentive,neutral,-3,6,4
+53.11s,Attentive,neutral,-6,5,3
+53.22s,Attentive,neutral,-3,6,4
+53.33s,Attentive,neutral,-3,6,5
+53.43s,Attentive,neutral,-2,6,6
+53.54s,Attentive,neutral,-7,4,5
+53.65s,Attentive,neutral,-3,4,6
+53.75s,Attentive,neutral,-5,2,6
+53.86s,Attentive,neutral,-4,4,6
+53.97s,Attentive,neutral,-5,3,6
+54.07s,Attentive,neutral,-7,2,6
+54.18s,Attentive,neutral,-3,4,6
+54.28s,Attentive,neutral,-4,2,6
+54.42s,Attentive,neutral,-8,2,5
+54.56s,Attentive,neutral,-3,2,5
+54.69s,Attentive,neutral,-6,1,6
+55.00s,Attentive,neutral,-2,2,6
+55.11s,Not Attentive,neutral,-9,1,5
+55.22s,Attentive,happy,-6,0,7
+55.32s,Attentive,sad,-4,3,5
+55.43s,Attentive,neutral,-4,4,5
+55.53s,Attentive,sad,-4,3,6
+55.64s,Attentive,neutral,-7,1,5
+55.75s,Attentive,neutral,-4,2,6
+55.85s,Attentive,neutral,-3,2,6
+55.96s,Attentive,neutral,-5,1,6
+56.07s,Attentive,sad,-5,3,7
+56.17s,Attentive,neutral,-6,2,6
+56.28s,Attentive,neutral,-5,2,7
+56.38s,Attentive,happy,-4,0,6
+56.49s,Attentive,neutral,-2,1,7
+56.60s,Attentive,neutral,-5,1,6
+56.70s,Attentive,neutral,-5,0,6
+56.82s,Attentive,neutral,-4,1,6
+56.92s,Attentive,neutral,-4,0,6
+57.03s,Attentive,sad,-2,0,6
+57.14s,Attentive,sad,-2,4,6
+57.24s,Attentive,sad,-2,5,6
+57.34s,Attentive,sad,-4,4,6
+57.45s,Attentive,sad,0,4,6
+57.56s,Attentive,sad,-5,3,6
+57.66s,Attentive,sad,-4,5,6
+57.77s,Attentive,sad,0,5,7
+57.88s,Attentive,sad,0,4,6
+57.98s,Attentive,sad,-2,6,7
+58.09s,Attentive,sad,-3,4,6
+58.20s,Attentive,sad,-3,3,7
+58.30s,Attentive,neutral,-3,4,7
+58.41s,Attentive,sad,-2,4,6
+58.51s,Attentive,sad,-3,3,7
+58.62s,Attentive,neutral,-1,3,7
+58.73s,Attentive,neutral,0,4,7
+58.83s,Attentive,sad,0,3,6
+58.94s,Attentive,sad,-3,3,6
+59.05s,Attentive,sad,-1,4,6
+59.15s,Attentive,sad,-4,5,6
+59.26s,Attentive,sad,-1,4,7
+59.37s,Attentive,sad,-1,4,7
+59.47s,Attentive,neutral,0,5,7
+59.58s,Attentive,sad,-3,4,7
+59.69s,Attentive,sad,0,4,7
+59.80s,Attentive,neutral,-4,4,7
+59.91s,Attentive,sad,0,3,6
+60.02s,Attentive,sad,0,3,6
+60.12s,Attentive,sad,-3,3,6
+60.23s,Attentive,neutral,0,4,7
+60.34s,Attentive,neutral,1,2,7
+60.44s,Attentive,neutral,0,4,7
+60.55s,Attentive,sad,0,2,7
+60.65s,Attentive,sad,0,3,7
+60.76s,Attentive,neutral,1,4,7
+60.86s,Attentive,sad,-1,3,7
+60.97s,Attentive,sad,0,3,7
+61.07s,Attentive,sad,-2,2,6
+61.18s,Attentive,neutral,-2,5,6
+61.29s,Attentive,neutral,-4,3,6
+61.39s,Attentive,neutral,0,2,6
+61.50s,Attentive,neutral,-2,2,6
+61.63s,Attentive,neutral,-1,2,6
+61.73s,Attentive,neutral,-3,3,7
+61.83s,Attentive,happy,-2,2,7
+61.94s,Attentive,sad,-4,2,6
+62.05s,Attentive,neutral,-3,2,6
+62.15s,Attentive,neutral,2,4,8
+62.25s,Attentive,neutral,-1,2,7
+62.36s,Attentive,neutral,-2,0,6
+62.46s,Attentive,neutral,-2,0,7
+62.56s,Attentive,neutral,-1,2,7
+62.69s,Attentive,neutral,0,2,7
+62.80s,Attentive,neutral,0,3,7
+62.90s,Attentive,sad,-3,2,7
+63.01s,Attentive,sad,-1,2,8
+63.11s,Attentive,neutral,-1,3,6
+63.21s,Attentive,neutral,0,2,7
+63.32s,Attentive,sad,0,3,6
+63.42s,Attentive,sad,-2,1,6
+63.53s,Attentive,neutral,-2,2,6
+63.63s,Attentive,neutral,0,1,6
+63.74s,Attentive,neutral,-1,1,6
+63.84s,Attentive,neutral,0,2,7
+63.95s,Attentive,neutral,-1,1,6
+64.05s,Attentive,neutral,-3,1,5
+64.16s,Attentive,sad,-1,3,6
+64.26s,Attentive,sad,0,2,6
+64.37s,Attentive,sad,-1,2,5
+64.47s,Attentive,sad,0,3,6
+64.58s,Attentive,happy,-4,1,6
+64.68s,Attentive,happy,0,2,6
+64.80s,Attentive,happy,-3,1,5
+64.90s,Attentive,happy,-3,1,6
+65.00s,Attentive,happy,-3,1,5
+65.11s,Attentive,sad,-3,0,6
+65.22s,Attentive,neutral,-3,2,5
+65.32s,Attentive,neutral,-4,1,5
+65.43s,Attentive,neutral,-2,1,5
+65.55s,Attentive,sad,2,2,7
+65.67s,Attentive,sad,-1,1,7
+65.78s,Attentive,sad,-2,1,6
+65.88s,Attentive,happy,-3,0,6
+65.99s,Attentive,sad,0,0,7
+66.09s,Attentive,happy,-1,-1,6
+66.19s,Attentive,happy,-4,-1,7
+66.30s,Attentive,happy,-3,-3,6
+66.41s,Attentive,sad,-4,0,6
+66.51s,Attentive,sad,-5,-1,6
+66.61s,Attentive,sad,-7,-2,7
+66.72s,Attentive,happy,-1,0,7
+66.83s,Attentive,happy,-1,0,8
+66.93s,Attentive,neutral,-4,-1,7
+67.04s,Attentive,sad,-1,0,7
+67.14s,Attentive,sad,-1,0,7
+67.25s,Attentive,sad,-4,0,7
+67.35s,Attentive,sad,1,1,8
+67.46s,Attentive,sad,-2,0,7
+67.56s,Attentive,sad,0,0,7
+67.67s,Attentive,sad,-3,0,6
+67.78s,Attentive,happy,-4,-1,8
+67.88s,Attentive,sad,-4,0,7
+67.99s,Attentive,sad,0,0,8
+68.31s,Attentive,sad,-1,0,7
+68.45s,Attentive,happy,-8,-2,5
+68.55s,Attentive,happy,-4,-3,6
+68.66s,Attentive,happy,-4,0,7
+68.77s,Attentive,happy,-2,0,7
+68.88s,Attentive,happy,-6,-1,6
+68.99s,Attentive,happy,-9,-2,6
+69.09s,Attentive,happy,-5,-2,6
+69.20s,Attentive,happy,-4,-1,7
+69.30s,Attentive,happy,-5,-1,7
+69.41s,Attentive,happy,-3,0,7
+69.52s,Attentive,happy,-5,-1,7
+69.62s,Attentive,happy,-4,0,7
+69.73s,Attentive,happy,-2,0,7
+69.86s,Attentive,happy,-2,-1,7
+70.00s,Attentive,happy,-3,0,7
+70.11s,Attentive,happy,-2,-1,7
+70.21s,Attentive,happy,-2,1,6
+70.32s,Attentive,happy,-3,0,7
+70.43s,Attentive,happy,-3,0,6
+70.53s,Attentive,happy,-5,0,6
+70.64s,Not Attentive,happy,-3,0,6
+70.75s,Attentive,happy,-4,0,6
+70.85s,Attentive,happy,-2,0,6
+70.96s,Attentive,happy,-4,0,6
+71.06s,Attentive,happy,-2,0,6
+71.17s,Attentive,happy,-2,0,7
+71.27s,Attentive,happy,-4,-1,7
+71.38s,Attentive,happy,-1,0,7
+71.49s,Attentive,happy,-4,0,6
+71.59s,Attentive,happy,-2,0,6
+71.70s,Attentive,happy,-1,0,7
+71.81s,Attentive,happy,-3,-1,6
+71.91s,Attentive,happy,-4,-1,6
+72.01s,Attentive,neutral,-1,1,6
+72.12s,Attentive,neutral,-3,0,6
+72.22s,Attentive,sad,0,0,6
+72.33s,Attentive,happy,-1,0,7
+72.44s,Attentive,sad,-3,0,6
+72.54s,Attentive,happy,-1,0,7
+72.65s,Attentive,neutral,-2,0,8
+72.76s,Attentive,neutral,-1,0,7
+72.87s,Attentive,happy,-1,0,7
+72.97s,Attentive,happy,-1,-1,6
+73.08s,Attentive,happy,0,-1,6
+73.18s,Attentive,happy,-3,0,6
+73.29s,Attentive,happy,-2,-1,7
+73.39s,Attentive,happy,-5,0,6
+73.50s,Attentive,happy,0,0,7
+73.61s,Attentive,happy,-3,-2,6
+73.71s,Attentive,happy,-4,-2,7
+73.82s,Attentive,happy,-1,-1,6
+73.93s,Attentive,happy,-1,0,6
+74.03s,Attentive,sad,0,-1,8
+74.14s,Attentive,sad,-1,0,7
+74.24s,Attentive,happy,-5,-1,6
+74.34s,Attentive,happy,0,-1,7
+74.45s,Attentive,happy,-1,-1,6
+74.55s,Attentive,happy,1,0,6
+74.66s,Attentive,happy,0,0,7
+74.77s,Attentive,happy,-1,-2,7
+74.87s,Attentive,happy,-2,-1,6
+74.98s,Attentive,happy,-2,-1,6
+75.08s,Attentive,happy,0,-1,7
+75.19s,Attentive,happy,-2,-2,7
+75.30s,Not Attentive,happy,-3,0,7
+75.40s,Attentive,happy,-3,-1,7
+75.50s,Attentive,happy,-6,-1,6
+75.61s,Attentive,sad,-5,-2,7
+75.74s,Not Attentive,happy,-3,0,7
+75.85s,Attentive,sad,-9,0,7
+75.95s,Attentive,happy,-4,0,9
+76.06s,Attentive,happy,-5,0,9
+76.17s,Attentive,happy,0,2,8
+76.28s,Not Attentive,happy,0,1,8
+76.39s,Attentive,happy,-3,0,8
+76.50s,Attentive,happy,-2,0,8
+76.60s,Not Attentive,happy,-2,-1,9
+76.71s,Attentive,happy,-2,-1,9
+76.81s,Attentive,happy,-4,-4,10
+76.94s,Attentive,happy,-5,-4,10
+77.13s,Not Attentive,happy,-7,-3,9
+77.21s,Not Attentive,happy,-7,-3,9
+77.29s,Not Attentive,happy,-7,-3,9
+77.39s,Not Attentive,happy,-7,-3,9
+77.47s,Not Attentive,happy,-7,-3,9
+77.52s,Not Attentive,happy,-7,-3,9
+77.60s,Not Attentive,happy,-7,-3,9
+77.65s,Not Attentive,happy,-7,-3,9
+77.70s,Not Attentive,happy,-7,-3,9
+77.75s,Not Attentive,happy,-7,-3,9
+77.80s,Not Attentive,happy,-7,-3,9
+77.85s,Not Attentive,happy,-7,-3,9
+77.90s,Not Attentive,happy,-7,-3,9
+77.95s,Not Attentive,happy,-7,-3,9
+78.00s,Not Attentive,happy,-7,-3,9
+78.07s,Not Attentive,happy,-7,-3,9
+78.13s,Not Attentive,happy,-7,-3,9
+78.17s,Not Attentive,happy,-7,-3,9
+78.23s,Not Attentive,happy,-7,-3,9
+78.28s,Not Attentive,happy,-7,-3,9
+78.33s,Not Attentive,happy,-7,-3,9
+78.38s,Not Attentive,happy,-7,-3,9
+78.43s,Not Attentive,happy,-7,-3,9
+78.47s,Not Attentive,happy,-7,-3,9
+78.53s,Not Attentive,happy,-7,-3,9
+78.62s,Not Attentive,happy,-7,-3,9
+78.68s,Not Attentive,happy,-7,-3,9
+78.74s,Not Attentive,happy,-7,-3,9
+78.81s,Not Attentive,happy,-7,-3,9
+78.87s,Not Attentive,happy,-7,-3,9
+78.93s,Not Attentive,happy,-7,-3,9
+78.98s,Not Attentive,happy,-7,-3,9
+79.03s,Not Attentive,happy,-7,-3,9
+79.09s,Not Attentive,happy,-7,-3,9
+79.16s,Not Attentive,happy,-7,-3,9
+79.26s,Not Attentive,happy,-7,-3,9
+79.35s,Not Attentive,happy,-7,-3,9
+79.42s,Not Attentive,happy,-7,-3,9
+79.48s,Not Attentive,happy,-7,-3,9
+79.59s,Not Attentive,happy,-9,-4,8
+79.70s,Attentive,happy,-7,-5,9
+79.83s,Not Attentive,happy,-4,-4,10
+79.93s,Not Attentive,happy,-6,-3,9
+80.05s,Not Attentive,happy,-5,-3,11
+80.16s,Not Attentive,happy,-7,-3,10
+80.26s,Not Attentive,happy,-5,-4,10
+80.37s,Not Attentive,happy,-9,-5,10
+80.47s,Not Attentive,happy,-8,-5,10
+80.58s,Not Attentive,happy,-8,-5,9
+80.68s,Not Attentive,happy,-7,-4,9
+80.79s,Not Attentive,happy,-6,-4,9
+80.89s,Not Attentive,happy,-7,-4,9
+81.00s,Not Attentive,happy,-7,-5,11
+81.10s,Not Attentive,happy,-8,-5,10
+81.21s,Not Attentive,happy,-7,-4,10
+81.31s,Not Attentive,happy,-5,-4,9
+81.42s,Not Attentive,happy,-5,-3,9
+81.52s,Not Attentive,happy,-7,-4,8
+81.63s,Not Attentive,happy,-6,-3,9
+81.73s,Not Attentive,happy,-7,-3,9
+81.84s,Not Attentive,happy,-8,-5,9
+81.95s,Not Attentive,happy,-9,-4,9
+82.06s,Not Attentive,happy,-9,-4,9
+82.18s,Not Attentive,happy,-8,-4,9
+82.29s,Not Attentive,happy,-9,-6,9
+82.39s,Not Attentive,happy,-9,-4,9
+82.50s,Not Attentive,happy,-7,-4,9
+82.60s,Not Attentive,happy,-9,-4,8
+82.70s,Not Attentive,happy,-8,-3,8
+82.81s,Attentive,happy,-10,-3,7
+82.92s,Attentive,happy,-9,-3,8
+83.04s,Attentive,happy,-6,-1,9
+83.14s,Attentive,neutral,-10,0,12
+83.24s,Attentive,neutral,-6,0,13
+83.35s,Attentive,sad,-6,4,14
+83.46s,Not Attentive,neutral,-4,6,14
+83.56s,Attentive,neutral,-10,6,13
+83.67s,Attentive,sad,-9,4,13
+83.78s,Attentive,neutral,-8,6,15
+83.88s,Attentive,sad,-7,6,17
+84.01s,Attentive,neutral,-3,3,18
+84.18s,Attentive,sad,-3,3,18
+84.28s,Not Attentive,sad,3,3,17
+84.39s,Attentive,neutral,4,3,17
+84.68s,Not Attentive,sad,1,3,16
+84.85s,Attentive,sad,6,2,17
+85.01s,Not Attentive,sad,5,2,17
+85.17s,Not Attentive,sad,5,2,16
+85.29s,Attentive,sad,2,2,17
+85.39s,Not Attentive,sad,2,2,17
+85.50s,Not Attentive,sad,2,2,17
+85.60s,Not Attentive,sad,5,3,16
+85.70s,Not Attentive,sad,4,3,16
+85.81s,Attentive,sad,5,2,17
+85.91s,Not Attentive,sad,5,3,16
+86.02s,Attentive,sad,6,4,16
+86.12s,Attentive,sad,5,2,16
+86.22s,Attentive,sad,9,2,17
+86.33s,Not Attentive,sad,8,1,17
+86.45s,Not Attentive,sad,8,2,16
+86.56s,Attentive,sad,10,1,17
+86.68s,Attentive,sad,8,2,17
+86.80s,Not Attentive,sad,12,3,17
+86.91s,Attentive,sad,-5,-2,15
+87.01s,Attentive,sad,7,2,17
+87.12s,Attentive,sad,-6,-1,15
+87.22s,Attentive,sad,8,3,17
+87.32s,Not Attentive,sad,7,3,18
+87.43s,Not Attentive,sad,-4,-2,16
+87.54s,Not Attentive,sad,9,2,18
+87.64s,Attentive,sad,0,0,16
+87.74s,Attentive,happy,-4,-1,15
+87.85s,Attentive,happy,-2,-1,15
+87.90s,Attentive,happy,-2,-1,15
+88.00s,Not Attentive,happy,-6,-1,15
+88.10s,Attentive,happy,-5,-2,12
+88.21s,Attentive,happy,-8,-2,11
+88.26s,Attentive,happy,-8,-2,11
+88.31s,Attentive,happy,-8,-2,11
+88.36s,Attentive,happy,-8,-2,11
+88.41s,Attentive,happy,-8,-2,11
+88.46s,Attentive,happy,-8,-2,11
+88.50s,Attentive,happy,-8,-2,11
+88.55s,Attentive,happy,-8,-2,11
+88.60s,Attentive,happy,-8,-2,11
+88.65s,Attentive,happy,-8,-2,11
+88.71s,Attentive,happy,-8,-2,11
+88.76s,Attentive,happy,-8,-2,11
+88.81s,Attentive,happy,-8,-2,11
+88.86s,Attentive,happy,-8,-2,11
+88.90s,Attentive,happy,-8,-2,11
+88.95s,Attentive,happy,-8,-2,11
+89.00s,Attentive,happy,-8,-2,11
+89.06s,Attentive,happy,-8,-2,11
+89.11s,Attentive,happy,-8,-2,11
+89.16s,Attentive,happy,-8,-2,11
+89.21s,Attentive,happy,-8,-2,11
+89.26s,Attentive,happy,-8,-2,11
+89.30s,Attentive,happy,-8,-2,11
+89.37s,Attentive,happy,-8,-2,11
+89.41s,Attentive,happy,-8,-2,11
+89.60s,Not Attentive,happy,-20,-6,14
+89.71s,Not Attentive,happy,-20,-6,14
+89.76s,Not Attentive,happy,-20,-6,14
+89.81s,Not Attentive,happy,-20,-6,14
+89.86s,Not Attentive,happy,-20,-6,14
+89.90s,Not Attentive,happy,-20,-6,14
+89.96s,Not Attentive,happy,-20,-6,14
+90.01s,Not Attentive,happy,-20,-6,14
+90.06s,Not Attentive,happy,-20,-6,14
+90.11s,Not Attentive,happy,-20,-6,14
+90.16s,Not Attentive,happy,-20,-6,14
+90.21s,Not Attentive,happy,-20,-6,14
+90.26s,Not Attentive,happy,-20,-6,14
+90.34s,Not Attentive,happy,-20,-6,14
+90.40s,Not Attentive,happy,-20,-6,14
+90.47s,Not Attentive,happy,-20,-6,14
+90.53s,Not Attentive,happy,-20,-6,14
+90.61s,Not Attentive,happy,-20,-6,14
+90.66s,Not Attentive,happy,-20,-6,14
+90.71s,Not Attentive,happy,-20,-6,14
+90.76s,Not Attentive,happy,-20,-6,14
+90.81s,Not Attentive,happy,-20,-6,14
+90.86s,Not Attentive,happy,-20,-6,14
+90.96s,Not Attentive,happy,-20,-6,14
+91.01s,Not Attentive,happy,-20,-6,14
+91.06s,Not Attentive,happy,-20,-6,14
+91.11s,Not Attentive,happy,-20,-6,14
+91.16s,Not Attentive,happy,-20,-6,14
+91.21s,Not Attentive,happy,-20,-6,14
+91.25s,Not Attentive,happy,-20,-6,14
+91.30s,Not Attentive,happy,-20,-6,14
+91.35s,Not Attentive,happy,-20,-6,14
+91.40s,Not Attentive,happy,-20,-6,14
+91.49s,Not Attentive,happy,-20,-6,14
+91.55s,Not Attentive,happy,-20,-6,14
+91.62s,Not Attentive,happy,-20,-6,14
+91.69s,Not Attentive,happy,-20,-6,14
+91.75s,Not Attentive,happy,-20,-6,14
+91.81s,Not Attentive,happy,-20,-6,14
+91.87s,Not Attentive,happy,-20,-6,14
+91.92s,Not Attentive,happy,-20,-6,14
+91.97s,Not Attentive,happy,-20,-6,14
+92.02s,Not Attentive,happy,-20,-6,14
+92.06s,Not Attentive,happy,-20,-6,14
+92.12s,Not Attentive,happy,-20,-6,14
+92.17s,Not Attentive,happy,-20,-6,14
+92.24s,Not Attentive,happy,-20,-6,14
+92.29s,Not Attentive,happy,-20,-6,14
+92.34s,Not Attentive,happy,-20,-6,14
+92.39s,Not Attentive,happy,-20,-6,14
+92.44s,Not Attentive,happy,-20,-6,14
+92.48s,Not Attentive,happy,-20,-6,14
+92.53s,Not Attentive,happy,-20,-6,14
+92.58s,Not Attentive,happy,-20,-6,14
+92.63s,Not Attentive,happy,-20,-6,14
+92.68s,Not Attentive,happy,-20,-6,14
+92.73s,Not Attentive,happy,-20,-6,14
+92.78s,Not Attentive,happy,-20,-6,14
+92.84s,Not Attentive,happy,-20,-6,14
+92.89s,Not Attentive,happy,-20,-6,14
+92.98s,Not Attentive,happy,-20,-6,14
+93.02s,Not Attentive,happy,-20,-6,14
+93.08s,Not Attentive,happy,-20,-6,14
+93.18s,Attentive,happy,-20,-6,14
+93.29s,Not Attentive,happy,-18,-7,15
+93.33s,Not Attentive,happy,-18,-7,15
+93.44s,Attentive,happy,-18,-7,15
+93.49s,Attentive,happy,-18,-7,15
+93.59s,Not Attentive,happy,-17,-5,14
+93.70s,Attentive,happy,-19,-6,14
+93.74s,Attentive,happy,-19,-6,14
+93.85s,Attentive,happy,-19,-8,15
+93.96s,Not Attentive,happy,-18,-8,14
+94.06s,Attentive,happy,-19,-7,15
+94.16s,Attentive,happy,-19,-8,14
+94.27s,Attentive,happy,-17,-9,15
+94.37s,Not Attentive,happy,-16,-10,15
+94.48s,Not Attentive,happy,-17,-7,14
+94.58s,Not Attentive,happy,-18,-2,12
+94.63s,Not Attentive,happy,-18,-2,12
+94.68s,Not Attentive,happy,-18,-2,12
+94.72s,Not Attentive,happy,-18,-2,12
+94.77s,Not Attentive,happy,-18,-2,12
+94.82s,Not Attentive,happy,-18,-2,12
+94.87s,Not Attentive,happy,-18,-2,12
+94.92s,Not Attentive,happy,-18,-2,12
+94.98s,Not Attentive,happy,-18,-2,12
+95.10s,Not Attentive,happy,-18,-2,12
+95.15s,Not Attentive,happy,-18,-2,12
+95.19s,Not Attentive,happy,-18,-2,12
+95.24s,Not Attentive,happy,-18,-2,12
+95.29s,Not Attentive,happy,-18,-2,12
+95.38s,Not Attentive,happy,-18,-2,12
+95.45s,Not Attentive,happy,-18,-2,12
+95.50s,Not Attentive,happy,-18,-2,12
+95.55s,Not Attentive,happy,-18,-2,12
+95.60s,Not Attentive,happy,-18,-2,12
+95.65s,Not Attentive,happy,-18,-2,12
+95.75s,Not Attentive,happy,-18,-2,12
+95.80s,Not Attentive,happy,-18,-2,12
+95.85s,Not Attentive,happy,-18,-2,12
+95.90s,Not Attentive,happy,-18,-2,12
+95.95s,Not Attentive,happy,-18,-2,12
+96.01s,Not Attentive,happy,-18,-2,12
+96.06s,Not Attentive,happy,-18,-2,12
+96.11s,Not Attentive,happy,-18,-2,12
+96.16s,Not Attentive,happy,-18,-2,12
+96.21s,Not Attentive,happy,-18,-2,12
+96.26s,Not Attentive,happy,-18,-2,12
+96.30s,Not Attentive,happy,-18,-2,12
+96.36s,Not Attentive,happy,-18,-2,12
+96.41s,Not Attentive,happy,-18,-2,12
+96.45s,Not Attentive,happy,-18,-2,12
+96.50s,Not Attentive,happy,-18,-2,12
+96.55s,Not Attentive,happy,-18,-2,12
+96.60s,Not Attentive,happy,-18,-2,12
+96.69s,Not Attentive,happy,-18,-2,12
+96.74s,Not Attentive,happy,-18,-2,12
+96.79s,Not Attentive,happy,-18,-2,12
+96.84s,Not Attentive,happy,-18,-2,12
+96.90s,Not Attentive,happy,-18,-2,12
+96.95s,Not Attentive,happy,-18,-2,12
+97.00s,Not Attentive,happy,-18,-2,12
+97.05s,Not Attentive,happy,-18,-2,12
+97.10s,Not Attentive,happy,-18,-2,12
+97.14s,Not Attentive,happy,-18,-2,12
+97.21s,Not Attentive,happy,-18,-2,12
+97.26s,Not Attentive,happy,-18,-2,12
+97.32s,Not Attentive,happy,-18,-2,12
+97.41s,Not Attentive,happy,-18,-2,12
+97.46s,Not Attentive,happy,-18,-2,12
+97.51s,Not Attentive,happy,-18,-2,12
+97.66s,Not Attentive,neutral,-19,-7,10
+97.79s,Attentive,neutral,-7,-2,6
+97.90s,Attentive,neutral,-6,-1,4
+98.00s,Attentive,neutral,-6,-2,4
+98.11s,Attentive,neutral,-5,-3,2
+98.23s,Attentive,neutral,-5,-4,1
+98.34s,Attentive,neutral,-5,-3,0
+98.49s,Attentive,neutral,-6,-3,0
+98.62s,Attentive,neutral,-7,-4,0
+98.76s,Attentive,happy,-7,-6,1
+98.89s,Attentive,happy,-6,-5,0
+99.00s,Attentive,happy,-6,-4,1
+99.12s,Attentive,happy,-5,-1,1
+99.23s,Attentive,neutral,-6,-1,1
+99.34s,Attentive,neutral,-7,0,1
+99.44s,Attentive,neutral,-10,-1,1
+99.55s,Attentive,angry,-8,-2,2
+99.67s,Attentive,neutral,-10,-2,2
+99.77s,Attentive,neutral,-6,-1,1
+99.88s,Attentive,neutral,-8,-1,1
+99.99s,Attentive,neutral,-7,-3,2
+100.09s,Attentive,neutral,-10,-3,2
+100.20s,Attentive,neutral,-7,-2,2
+100.30s,Attentive,neutral,-8,-2,2
+100.41s,Attentive,neutral,-8,-1,2
+100.51s,Attentive,neutral,-8,-1,2
+100.62s,Attentive,happy,-8,-3,2
+100.72s,Attentive,happy,-8,-6,2
+100.83s,Attentive,happy,-8,-8,2
+100.93s,Not Attentive,happy,-10,-6,2
+101.04s,Not Attentive,happy,-10,-8,3
+101.14s,Not Attentive,happy,-9,-6,2
+101.25s,Not Attentive,happy,-8,-9,3
+101.35s,Not Attentive,happy,-9,-8,3
+101.46s,Not Attentive,happy,-9,-8,3
+101.59s,Not Attentive,happy,-9,-8,2
+101.72s,Not Attentive,happy,-8,-8,2
+101.86s,Not Attentive,happy,-8,-7,2
+101.99s,Not Attentive,happy,-10,-8,2
+102.12s,Not Attentive,happy,-9,-7,2
+102.26s,Not Attentive,happy,-8,-7,3
+102.40s,Not Attentive,happy,-8,-7,3
+102.51s,Not Attentive,happy,-9,-7,4
+102.63s,Attentive,happy,-9,-8,4
+102.75s,Attentive,happy,-9,-8,4
+102.87s,Attentive,happy,-8,-7,4
+102.98s,Not Attentive,happy,-9,-8,4
+103.08s,Attentive,happy,-9,-7,4
+103.18s,Not Attentive,happy,-9,-7,3
+103.29s,Attentive,happy,-8,-7,4
+103.39s,Not Attentive,happy,-8,-8,4
+103.50s,Not Attentive,happy,-7,-7,4
+103.60s,Not Attentive,happy,-10,-7,3
+103.71s,Not Attentive,happy,-7,-6,4
+103.83s,Not Attentive,happy,-8,0,3
+103.94s,Attentive,happy,-8,8,3
+104.04s,Attentive,sad,-8,11,4
+104.15s,Attentive,sad,-9,11,5
+104.25s,Attentive,sad,-5,11,5
+104.30s,Attentive,sad,-5,11,5
+104.40s,Attentive,neutral,-3,8,9
+104.51s,Attentive,neutral,-13,8,7
+104.62s,Attentive,neutral,-5,10,8
+104.72s,Attentive,neutral,-6,9,7
+104.83s,Attentive,sad,-6,11,9
+104.94s,Attentive,sad,-2,9,11
+105.05s,Attentive,sad,-5,10,11
+105.15s,Attentive,sad,-4,11,10
+105.26s,Attentive,neutral,-4,11,10
+105.37s,Attentive,neutral,-2,12,10
+105.42s,Attentive,neutral,-2,12,10
+105.58s,Attentive,neutral,-1,12,11
+105.68s,Attentive,sad,-7,9,9
+105.79s,Attentive,sad,-6,9,9
+105.90s,Attentive,sad,-6,8,9
+106.00s,Attentive,neutral,-5,9,9
+106.11s,Attentive,sad,-4,10,10
+106.21s,Attentive,neutral,-1,12,10
+106.32s,Attentive,neutral,-2,11,11
+106.42s,Attentive,neutral,-1,11,10
+106.55s,Attentive,neutral,-2,12,10
+106.66s,Attentive,neutral,-3,10,10
+106.77s,Attentive,sad,-1,11,11
+106.87s,Not Attentive,sad,-2,11,11
+107.21s,Attentive,sad,-2,12,10
+107.32s,Attentive,neutral,-1,11,11
+107.46s,Attentive,neutral,-2,11,11
+107.56s,Attentive,neutral,-1,12,10
+107.67s,Attentive,neutral,0,10,11
+107.77s,Attentive,neutral,-1,11,11
+107.88s,Attentive,neutral,-2,10,12
+107.98s,Attentive,neutral,-3,9,12
+108.09s,Attentive,happy,-6,0,11
+108.19s,Attentive,neutral,-7,0,10
+108.30s,Attentive,neutral,-4,4,14
+108.40s,Attentive,sad,-4,0,12
+108.51s,Attentive,sad,-5,0,12
+108.67s,Attentive,sad,-6,0,11
+108.78s,Attentive,neutral,-2,0,12
+108.88s,Attentive,sad,-5,1,11
+108.99s,Attentive,neutral,-4,2,11
+109.10s,Attentive,neutral,-4,2,12
+109.20s,Attentive,neutral,-4,3,11
+109.25s,Attentive,neutral,-4,3,11
+109.30s,Attentive,neutral,-4,3,11
+109.35s,Attentive,neutral,-4,3,11
+109.40s,Attentive,neutral,-4,3,11
+109.45s,Attentive,neutral,-4,3,11
+109.50s,Attentive,neutral,-4,3,11
+109.54s,Attentive,neutral,-4,3,11
+109.59s,Attentive,neutral,-4,3,11
+109.64s,Attentive,neutral,-4,3,11
+109.72s,Attentive,neutral,-4,3,11
+109.77s,Attentive,neutral,-4,3,11
+109.82s,Attentive,neutral,-4,3,11
+109.87s,Attentive,neutral,-4,3,11
+109.91s,Attentive,neutral,-4,3,11
+109.96s,Attentive,neutral,-4,3,11
+110.01s,Attentive,neutral,-4,3,11
+110.06s,Attentive,neutral,-4,3,11
+110.13s,Attentive,neutral,-4,3,11
+110.18s,Attentive,neutral,-4,3,11
+110.26s,Attentive,neutral,-4,3,11
+110.31s,Attentive,neutral,-4,3,11
+110.36s,Attentive,neutral,-4,3,11
+110.40s,Attentive,neutral,-4,3,11
+110.45s,Attentive,neutral,-4,3,11
+110.50s,Attentive,neutral,-4,3,11
+110.61s,Attentive,neutral,-6,4,11
+110.65s,Attentive,neutral,-6,4,11
+110.70s,Attentive,neutral,-6,4,11
+110.75s,Attentive,neutral,-6,4,11
+110.80s,Attentive,neutral,-6,4,11
+110.85s,Attentive,neutral,-6,4,11
+110.90s,Attentive,neutral,-6,4,11
+110.95s,Attentive,neutral,-6,4,11
+111.06s,Attentive,neutral,-6,3,11
+111.11s,Attentive,neutral,-6,3,11
+111.21s,Attentive,neutral,-8,2,10
+111.31s,Attentive,sad,-6,6,8
+111.42s,Attentive,neutral,-6,3,10
+111.53s,Attentive,sad,-6,0,7
+111.63s,Attentive,sad,-5,-1,6
+111.73s,Attentive,sad,-7,-1,5
+111.84s,Attentive,sad,-8,-1,5
+111.94s,Attentive,sad,-7,-2,3
+112.05s,Attentive,sad,-2,0,4
+112.15s,Attentive,sad,-14,-2,4
+112.31s,Attentive,angry,15,15,3
+112.36s,Attentive,angry,15,15,3
+112.50s,Not Attentive,happy,-28,-3,0
+112.61s,Attentive,neutral,-24,-2,0
+112.72s,Attentive,angry,-23,-2,1
+112.83s,Not Attentive,neutral,6,18,-1
+112.93s,Attentive,neutral,-17,-1,2
+113.04s,Attentive,neutral,-16,-1,3
+113.15s,Attentive,neutral,-14,-2,4
+113.26s,Attentive,neutral,-14,0,4
+113.37s,Attentive,neutral,-17,-3,4
+113.48s,Attentive,neutral,-17,-2,5
+113.62s,Attentive,neutral,-17,-3,5
+113.75s,Attentive,neutral,-16,-4,6
+113.86s,Attentive,neutral,-5,-2,7
+113.99s,Attentive,neutral,-4,-3,7
+114.12s,Attentive,neutral,-1,0,8
+114.22s,Attentive,neutral,9,0,8
+114.33s,Attentive,neutral,-3,9,-2
+114.43s,Attentive,neutral,-1,10,-2
+114.54s,Attentive,neutral,-1,9,-1
+114.64s,Attentive,happy,0,11,-1
+114.75s,Attentive,happy,0,10,-1
+114.88s,Attentive,happy,0,10,-1
+114.99s,Attentive,neutral,1,10,-1
+115.10s,Attentive,happy,0,11,0
+115.20s,Attentive,happy,1,9,0
+115.31s,Attentive,happy,0,9,-1
+115.42s,Attentive,neutral,0,9,-1
+115.52s,Attentive,neutral,-1,8,-1
+115.63s,Attentive,happy,0,10,-1
+115.73s,Attentive,happy,0,9,-1
+115.84s,Attentive,neutral,0,9,-1
+115.94s,Attentive,happy,0,9,-1
+116.05s,Attentive,neutral,0,9,-1
+116.15s,Attentive,happy,0,8,-1
+116.26s,Attentive,happy,-1,9,-1
+116.37s,Attentive,neutral,-6,-9,9
+116.48s,Attentive,neutral,-4,-8,9
+116.59s,Not Attentive,neutral,-35,-15,15
+116.70s,Not Attentive,happy,-34,-12,15
+116.82s,Not Attentive,happy,-42,-15,17
+116.93s,Not Attentive,happy,-42,-15,18
+117.09s,Not Attentive,happy,-36,-14,16
+117.25s,Not Attentive,happy,-40,-17,17
+117.41s,Not Attentive,happy,-38,-17,15
+117.57s,Not Attentive,neutral,-31,-16,14
+117.73s,Not Attentive,happy,-27,-14,15
+117.84s,Not Attentive,happy,-26,-14,16
+117.95s,Not Attentive,happy,-26,-13,16
+118.06s,Not Attentive,happy,-18,-11,13
+118.17s,Not Attentive,happy,-16,-9,13
+118.27s,Attentive,happy,-20,-9,15
+118.38s,Not Attentive,happy,-23,-11,16
+118.49s,Not Attentive,happy,-22,-11,15
+118.60s,Not Attentive,happy,-23,-11,15
+118.71s,Not Attentive,happy,-25,-9,15
+118.82s,Not Attentive,happy,-21,-7,11
+118.93s,Not Attentive,happy,-23,-7,11
+119.04s,Not Attentive,happy,-25,-9,12
+119.15s,Not Attentive,happy,-23,-8,11
+119.26s,Not Attentive,happy,-26,-10,11
+119.36s,Not Attentive,happy,-24,-9,12
+119.48s,Not Attentive,happy,-24,-9,11
+119.62s,Attentive,happy,-25,-5,11
+119.75s,Not Attentive,happy,-29,-3,11
+119.86s,Not Attentive,happy,-31,-4,12
+119.97s,Not Attentive,neutral,-29,-4,10
+120.07s,Not Attentive,neutral,-33,-7,13
+120.18s,Attentive,neutral,0,13,-2
+120.29s,Attentive,neutral,-18,-8,12
+120.39s,Attentive,neutral,0,13,-2
+120.50s,Not Attentive,neutral,3,-11,14
+120.61s,Attentive,neutral,2,16,-2
+120.74s,Not Attentive,neutral,-45,-15,17
+120.86s,Not Attentive,neutral,-52,-14,12
+120.98s,Not Attentive,neutral,-54,-9,8
+121.09s,Not Attentive,neutral,-55,-7,4
+121.20s,Not Attentive,neutral,-56,-9,4
+121.31s,Not Attentive,neutral,-56,-8,5
+121.43s,Not Attentive,neutral,-56,-9,3
+121.54s,Not Attentive,neutral,-58,-8,4
+121.66s,Not Attentive,neutral,-58,-8,3
+121.77s,Not Attentive,neutral,-57,-7,1
+121.91s,Not Attentive,neutral,-56,-10,2
+122.07s,Not Attentive,neutral,-59,-7,1
+122.17s,Not Attentive,neutral,-61,-9,3
+122.52s,Not Attentive,neutral,-60,-10,1
+122.66s,Not Attentive,neutral,-58,-14,-2
+122.80s,Not Attentive,neutral,-58,-12,-3
+122.95s,Not Attentive,neutral,-58,-13,-1
+123.07s,Not Attentive,neutral,-59,-13,-3
+123.21s,Not Attentive,neutral,-60,-13,-1
+123.33s,Not Attentive,neutral,-59,-12,-1
+123.46s,Attentive,neutral,-19,-2,6
+123.58s,Not Attentive,neutral,-59,-11,-3
+123.72s,Not Attentive,neutral,-57,-7,-5
+123.85s,Attentive,neutral,-4,10,-1
+123.97s,Not Attentive,neutral,-56,-7,-3
+124.12s,Not Attentive,neutral,-54,-8,-3
+124.25s,Not Attentive,neutral,-55,-5,-4
+124.38s,Not Attentive,neutral,-49,-6,-2
+124.51s,Not Attentive,neutral,-52,-6,-1
+124.66s,Attentive,neutral,-10,-3,0
+124.79s,Attentive,neutral,-12,-3,0
+124.92s,Attentive,neutral,4,-2,-2
+125.05s,Attentive,neutral,6,-2,-2
+125.17s,Attentive,neutral,5,-2,-3
+125.31s,Attentive,neutral,8,-3,-4
+125.44s,Attentive,neutral,4,-2,-2
+125.56s,Attentive,neutral,6,-3,-1
+125.69s,Attentive,neutral,5,-3,0
+125.81s,Attentive,neutral,-2,0,3
+125.95s,Attentive,neutral,10,-1,2
+126.08s,Attentive,neutral,11,-5,1
+126.21s,Attentive,neutral,1,-6,1
+126.34s,Attentive,neutral,-11,-4,2
+126.46s,Attentive,neutral,-2,-2,0
+126.59s,Attentive,neutral,-7,-1,1
+126.74s,Attentive,neutral,-1,-2,0
+126.86s,Attentive,neutral,-1,-1,1
+127.00s,Attentive,neutral,1,-1,0
+127.16s,Attentive,neutral,0,-2,1
+127.29s,Attentive,neutral,2,-6,1
+127.41s,Not Attentive,neutral,-44,-9,6
+127.52s,Attentive,neutral,-16,-1,2
+127.66s,Attentive,neutral,-16,0,1
+127.79s,Attentive,neutral,0,-2,0
+127.93s,Attentive,neutral,-12,0,1
+128.05s,Not Attentive,neutral,-40,-8,4
+128.18s,Not Attentive,neutral,-47,-10,4
+128.31s,Not Attentive,neutral,-46,-10,5
+128.43s,Not Attentive,neutral,-44,-7,4
+128.55s,Not Attentive,neutral,-43,-8,4
+128.69s,Not Attentive,neutral,-35,-8,4
+128.83s,Not Attentive,neutral,-41,-6,3
+128.95s,Not Attentive,neutral,-41,-6,3
+129.07s,Not Attentive,neutral,-44,-7,3
+129.19s,Not Attentive,neutral,-43,-8,4
+129.31s,Not Attentive,neutral,-44,-7,4
+129.44s,Not Attentive,neutral,-42,-6,4
+129.56s,Attentive,neutral,-1,6,-1
+129.69s,Not Attentive,neutral,-34,-2,1
+129.80s,Attentive,neutral,-8,-1,-1
+129.91s,Attentive,neutral,-4,3,-2
+130.01s,Attentive,neutral,-5,3,-2
+130.12s,Attentive,neutral,-7,4,-2
+130.24s,Attentive,neutral,-4,3,-2
+130.34s,Attentive,neutral,-5,2,-1
+130.50s,Attentive,neutral,-5,1,-1
+130.68s,Attentive,neutral,-4,2,-2
+130.79s,Attentive,neutral,-4,1,-1
+130.89s,Attentive,neutral,-5,4,-1
+131.00s,Attentive,neutral,-5,2,-1
+131.10s,Attentive,neutral,-6,2,-2
+131.21s,Attentive,neutral,-7,2,-2
+131.31s,Attentive,sad,-6,4,-2
+131.42s,Attentive,neutral,-7,5,-1
+131.52s,Attentive,neutral,-6,6,-2
+131.63s,Attentive,neutral,21,-2,4
+131.76s,Attentive,neutral,10,-3,-2
+131.89s,Attentive,neutral,-3,-2,-3
+132.04s,Attentive,neutral,-13,1,-5
+132.21s,Attentive,neutral,-6,9,-3
+132.33s,Attentive,neutral,-5,9,-3
+132.44s,Attentive,neutral,-4,8,-3
+132.55s,Attentive,neutral,-4,8,-3
+132.66s,Attentive,neutral,-5,-7,-9
+132.76s,Not Attentive,neutral,-3,-3,-7
+132.87s,Attentive,happy,12,-4,2
+132.98s,Attentive,happy,-2,7,-2
+133.08s,Not Attentive,happy,-4,7,-2
+133.18s,Not Attentive,happy,-1,10,-3
+133.29s,Attentive,happy,-2,11,-2
+133.39s,Not Attentive,happy,0,13,-2
+133.49s,Not Attentive,happy,0,13,-1
+133.60s,Not Attentive,happy,1,16,0
+133.70s,Not Attentive,happy,1,21,1
+133.81s,Not Attentive,happy,4,23,4
+133.91s,Not Attentive,happy,7,24,6
+134.02s,Not Attentive,happy,7,21,7
+134.12s,Not Attentive,happy,6,21,6
+134.22s,Not Attentive,happy,2,22,5
+134.33s,Attentive,happy,-1,23,3
+134.47s,Not Attentive,happy,0,19,1
+134.61s,Not Attentive,happy,-1,22,0
+134.72s,Attentive,neutral,-2,19,0
+134.83s,Not Attentive,neutral,-4,18,-1
+134.93s,Not Attentive,neutral,-5,15,-1
+135.03s,Not Attentive,neutral,-6,14,-2
+135.14s,Attentive,neutral,-6,14,-2
+135.24s,Attentive,neutral,-7,14,-3
+135.35s,Attentive,neutral,-7,11,-1
+135.46s,Attentive,neutral,-7,11,-1
+135.57s,Attentive,neutral,-9,12,-2
+135.67s,Attentive,neutral,-9,12,-3
+135.77s,Attentive,neutral,-6,13,-2
+135.88s,Attentive,neutral,-8,13,-2
+135.98s,Attentive,neutral,-9,13,-3
+136.09s,Attentive,neutral,-7,11,-3
+136.19s,Attentive,neutral,-7,11,-3
+136.31s,Attentive,neutral,-8,11,-3
+136.41s,Attentive,neutral,-7,13,-3
+136.52s,Attentive,neutral,-6,13,-3
+136.62s,Attentive,neutral,-7,12,-3
+136.73s,Attentive,happy,-8,13,-2
+136.83s,Attentive,happy,-6,14,-2
+136.94s,Attentive,neutral,-6,12,-2
+137.04s,Attentive,happy,-7,12,-3
+137.15s,Attentive,neutral,-7,13,-2
+137.25s,Attentive,happy,-7,12,-2
+137.36s,Attentive,neutral,-6,12,-2
+137.49s,Attentive,neutral,-8,11,-3
+137.60s,Attentive,happy,-5,13,-3
+137.94s,Attentive,happy,-8,11,-3
+138.13s,Attentive,happy,-7,12,-3
+138.30s,Attentive,happy,-7,11,-2
+138.43s,Attentive,happy,-7,10,-2
+138.54s,Attentive,happy,-6,13,-2
+138.64s,Attentive,neutral,-9,11,-2
+138.74s,Attentive,neutral,-9,11,-2
+138.85s,Attentive,neutral,-5,13,-2
+138.98s,Attentive,neutral,-7,14,-3
+139.08s,Attentive,neutral,-7,16,-2
+139.19s,Attentive,neutral,-5,15,-1
+139.29s,Attentive,neutral,-7,15,-2
+139.40s,Attentive,neutral,-9,15,-2
+139.50s,Attentive,neutral,-10,13,-2
+139.62s,Attentive,neutral,-8,15,-2
+139.72s,Attentive,neutral,-7,15,-2
+139.85s,Attentive,neutral,-5,16,-1
+139.95s,Attentive,neutral,-8,16,-1
+140.05s,Attentive,neutral,-7,14,-2
+140.16s,Attentive,neutral,-8,16,-2
+140.26s,Attentive,neutral,-7,15,-2
+140.37s,Attentive,neutral,-7,16,-2
+140.47s,Attentive,neutral,-6,17,-2
+140.61s,Attentive,neutral,-7,20,0
+140.73s,Attentive,sad,-6,21,0
+140.84s,Not Attentive,sad,-5,20,0
+140.94s,Not Attentive,neutral,-5,20,0
+141.04s,Not Attentive,neutral,-5,22,0
+141.15s,Not Attentive,neutral,-7,23,0
+141.26s,Not Attentive,neutral,-7,20,-1
+141.36s,Not Attentive,sad,-4,20,0
+141.47s,Not Attentive,sad,-6,21,0
+141.57s,Not Attentive,neutral,-5,20,0
+141.67s,Attentive,neutral,-5,21,0
+141.78s,Not Attentive,neutral,-4,21,1
+141.89s,Attentive,neutral,-5,21,0
+141.99s,Attentive,neutral,-4,20,0
+142.10s,Attentive,happy,-4,18,0
+142.21s,Not Attentive,happy,-5,17,1
+142.31s,Attentive,neutral,-3,16,3
+142.42s,Attentive,sad,-1,15,4
+142.52s,Attentive,neutral,-24,-2,12
+142.58s,Not Attentive,neutral,-27,-2,15
+142.68s,Attentive,happy,-24,-3,15
+142.73s,Attentive,happy,-24,-3,15
+142.90s,Attentive,neutral,-12,-1,14
+143.06s,Not Attentive,neutral,15,17,8
+143.22s,Attentive,neutral,17,17,8
+143.38s,Not Attentive,sad,17,15,9
+143.55s,Not Attentive,sad,17,17,9
+143.71s,Not Attentive,sad,15,15,7
+143.87s,Not Attentive,sad,8,11,5
+143.97s,Attentive,neutral,-13,0,10
+144.08s,Attentive,neutral,-14,0,9
+144.19s,Attentive,neutral,-16,1,8
+144.30s,Attentive,neutral,-17,3,8
+144.40s,Not Attentive,neutral,-15,3,7
+144.56s,Attentive,neutral,-14,4,7
+144.75s,Attentive,neutral,-15,3,7
+144.87s,Attentive,neutral,-16,2,7
+144.98s,Attentive,neutral,-16,2,7
+145.09s,Attentive,neutral,-14,3,7
+145.19s,Attentive,neutral,-14,3,8
+145.30s,Attentive,neutral,-14,3,7
+145.40s,Attentive,neutral,-14,3,7
+145.51s,Attentive,neutral,-15,2,8
+145.61s,Attentive,neutral,-14,2,8
+145.74s,Attentive,neutral,-15,2,7
+145.85s,Attentive,neutral,-14,1,8
+145.95s,Attentive,neutral,-15,1,8
+146.07s,Attentive,neutral,-15,2,7
+146.18s,Attentive,neutral,-16,0,8
+146.31s,Attentive,neutral,-16,0,7
+146.42s,Attentive,neutral,-18,-3,7
+146.52s,Attentive,neutral,-17,-4,6
+146.63s,Attentive,happy,-14,-5,5
+146.73s,Attentive,neutral,-11,-5,4
+146.85s,Not Attentive,happy,-9,0,0
+146.95s,Attentive,neutral,0,3,0
+147.06s,Not Attentive,neutral,1,6,-1
+147.17s,Attentive,neutral,1,9,-1
+147.27s,Not Attentive,neutral,0,9,0
+147.38s,Attentive,neutral,0,12,0
+147.49s,Not Attentive,neutral,0,11,0
+147.59s,Not Attentive,neutral,-1,12,1
+147.72s,Not Attentive,neutral,-8,12,1
+147.83s,Not Attentive,neutral,-6,12,1
+147.93s,Not Attentive,neutral,-5,13,2
+148.04s,Not Attentive,neutral,-2,13,3
+148.15s,Not Attentive,neutral,-4,14,3
+148.25s,Not Attentive,sad,-2,10,2
+148.36s,Attentive,sad,-2,9,2
+148.46s,Attentive,neutral,-3,10,2
+148.57s,Attentive,neutral,-1,11,2
+148.67s,Attentive,neutral,-1,9,3
+148.78s,Attentive,neutral,-3,10,2
+148.88s,Attentive,sad,-1,10,3
+148.99s,Attentive,neutral,-2,10,2
+149.10s,Attentive,sad,-3,9,2
+149.21s,Attentive,neutral,0,10,3
+149.31s,Not Attentive,sad,-1,9,3
+149.41s,Attentive,neutral,-1,10,3
+149.52s,Not Attentive,neutral,-2,13,3
+149.64s,Not Attentive,neutral,-2,9,3
+149.75s,Attentive,neutral,-5,11,2
+149.86s,Attentive,neutral,-3,11,3
+149.96s,Attentive,neutral,-2,9,3
+150.07s,Attentive,neutral,-2,10,3
+150.17s,Attentive,neutral,1,10,3
+150.28s,Attentive,neutral,-1,9,3
+150.38s,Not Attentive,neutral,-1,9,3
+150.49s,Attentive,neutral,-1,9,2
+150.59s,Attentive,neutral,0,9,3
+150.71s,Attentive,neutral,-2,9,2
+150.82s,Attentive,neutral,-2,9,3
+150.93s,Attentive,neutral,-4,11,3
+151.04s,Not Attentive,neutral,-5,15,4
+151.14s,Attentive,neutral,-3,9,3
+151.24s,Attentive,neutral,-3,9,2
+151.35s,Attentive,neutral,-1,11,3
+151.46s,Attentive,neutral,-1,10,3
+151.56s,Attentive,neutral,-2,9,3
+151.67s,Attentive,neutral,-2,8,3
+152.01s,Attentive,neutral,-2,10,3
+152.15s,Attentive,neutral,-1,10,3
+152.26s,Not Attentive,neutral,-3,12,3
+152.36s,Not Attentive,neutral,-5,14,4
+152.47s,Not Attentive,neutral,-8,14,3
+152.60s,Attentive,sad,-2,9,3
+152.72s,Not Attentive,neutral,-5,13,3
+152.83s,Not Attentive,neutral,-6,14,2
+152.93s,Attentive,sad,-1,9,3
+153.04s,Attentive,neutral,-1,9,3
+153.15s,Not Attentive,neutral,-4,13,3
+153.25s,Attentive,neutral,0,9,3
+153.35s,Attentive,neutral,-1,9,3
+153.46s,Attentive,neutral,-1,8,3
+153.56s,Attentive,neutral,0,10,3
+153.66s,Not Attentive,neutral,-7,13,4
+153.77s,Attentive,neutral,-3,11,3
+153.88s,Attentive,neutral,-1,9,3
+153.99s,Not Attentive,neutral,-7,13,4
+154.10s,Attentive,neutral,-2,11,3
+154.21s,Not Attentive,neutral,-4,9,3
+154.36s,Not Attentive,neutral,-6,15,3
+154.49s,Attentive,neutral,-1,9,3
+154.59s,Not Attentive,neutral,-4,13,3
+154.70s,Not Attentive,neutral,-4,13,3
+154.80s,Not Attentive,neutral,-4,10,3
+154.93s,Not Attentive,neutral,-1,4,4
+155.06s,Attentive,happy,-5,2,4
+155.18s,Attentive,happy,-12,-2,2
+155.28s,Attentive,happy,-18,-6,1
+155.39s,Attentive,happy,0,-8,2
+155.49s,Not Attentive,happy,-5,-6,2
+155.60s,Not Attentive,happy,-6,-9,0
+155.70s,Not Attentive,happy,-6,-6,1
+155.82s,Attentive,happy,-8,-6,1
+155.92s,Attentive,happy,-18,-6,0
+156.03s,Attentive,happy,-13,-5,0
+156.13s,Attentive,happy,-13,-7,0
+156.24s,Attentive,happy,-14,-6,1
+156.35s,Attentive,happy,-14,-7,1
+156.45s,Attentive,happy,-13,-6,2
+156.56s,Not Attentive,happy,-13,-8,1
+156.66s,Attentive,happy,-14,-6,1
+156.77s,Not Attentive,happy,-18,-7,0
+156.88s,Not Attentive,happy,-16,-6,0
+157.00s,Attentive,happy,-16,-6,0
+157.14s,Attentive,happy,-17,-5,0
+157.25s,Attentive,happy,-15,-5,1
+157.36s,Attentive,happy,-15,-5,1
+157.46s,Attentive,happy,-14,-5,1
+157.57s,Attentive,happy,-16,-4,0
+157.67s,Attentive,happy,-14,-4,0
+157.78s,Attentive,happy,-13,-5,1
+157.89s,Attentive,happy,-15,-3,1
+157.99s,Not Attentive,happy,-14,-5,2
+158.10s,Attentive,happy,-13,-3,1
+158.20s,Not Attentive,happy,-11,-5,2
+158.31s,Not Attentive,happy,-14,-7,2
+158.42s,Not Attentive,happy,-13,-7,1
+158.52s,Attentive,happy,-14,-5,2
+158.62s,Not Attentive,happy,-14,-7,2
+158.73s,Not Attentive,happy,-17,-7,2
+158.84s,Not Attentive,happy,-15,-5,2
+158.94s,Not Attentive,happy,-20,-4,1
+159.05s,Not Attentive,happy,-18,1,2
+159.15s,Not Attentive,happy,-32,-1,3
+159.20s,Not Attentive,happy,-32,-1,3
+159.25s,Not Attentive,happy,-32,-1,3
+159.30s,Not Attentive,happy,-32,-1,3
+159.35s,Not Attentive,happy,-32,-1,3
+159.40s,Not Attentive,happy,-32,-1,3
+159.45s,Not Attentive,happy,-32,-1,3
+159.50s,Not Attentive,happy,-32,-1,3
+159.60s,Attentive,happy,-14,-4,2
+159.65s,Attentive,happy,-14,-4,2
+159.70s,Attentive,happy,-14,-4,2
+159.75s,Attentive,happy,-14,-4,2
+159.86s,Attentive,happy,-13,-4,3
+159.91s,Attentive,happy,-13,-4,3
+159.96s,Attentive,happy,-13,-4,3
+160.01s,Attentive,happy,-13,-4,3
+160.06s,Attentive,happy,-13,-4,3
+160.10s,Attentive,happy,-13,-4,3
+160.15s,Attentive,happy,-13,-4,3
+160.20s,Attentive,happy,-13,-4,3
+160.25s,Attentive,happy,-13,-4,3
+160.30s,Attentive,happy,-13,-4,3
+160.41s,Attentive,happy,-8,0,3
+160.51s,Attentive,neutral,-4,0,1
+160.56s,Attentive,neutral,-4,0,1
+160.61s,Attentive,neutral,-4,0,1
+160.73s,Not Attentive,neutral,55,3,6
+160.84s,Not Attentive,neutral,53,3,6
+160.95s,Not Attentive,neutral,55,6,7
+161.06s,Not Attentive,neutral,58,7,7
+161.16s,Not Attentive,neutral,53,4,4
+161.27s,Not Attentive,neutral,56,9,7
+161.37s,Not Attentive,neutral,57,17,16
+161.48s,Not Attentive,neutral,56,15,12
+161.59s,Not Attentive,neutral,59,15,12
+161.69s,Not Attentive,neutral,57,10,7
+161.80s,Not Attentive,neutral,55,4,6
+161.91s,Not Attentive,neutral,56,11,10
+162.01s,Not Attentive,neutral,55,10,12
+162.11s,Not Attentive,neutral,55,6,9
+162.22s,Not Attentive,neutral,58,11,14
+162.33s,Not Attentive,neutral,55,14,15
+162.43s,Not Attentive,neutral,59,10,13
+162.54s,Not Attentive,neutral,54,15,16
+162.64s,Not Attentive,neutral,56,10,15
+162.75s,Not Attentive,sad,49,16,18
+162.85s,Not Attentive,happy,57,16,20
+162.96s,Not Attentive,happy,52,18,21
+163.07s,Not Attentive,happy,56,14,18
+163.18s,Not Attentive,happy,43,18,19
+163.28s,Attentive,happy,10,8,5
+163.39s,Not Attentive,happy,34,13,12
+163.50s,Not Attentive,happy,10,8,7
+163.55s,Not Attentive,happy,10,8,7
+163.60s,Not Attentive,happy,10,8,7
+163.65s,Not Attentive,happy,10,8,7
+163.70s,Not Attentive,happy,10,8,7
+163.75s,Not Attentive,happy,10,8,7
+163.80s,Not Attentive,happy,10,8,7
+163.85s,Not Attentive,happy,10,8,7
+163.90s,Not Attentive,happy,10,8,7
+163.95s,Not Attentive,happy,10,8,7
+164.00s,Not Attentive,happy,10,8,7
+164.10s,Not Attentive,happy,10,8,7
+164.16s,Not Attentive,happy,10,8,7
+164.22s,Not Attentive,happy,10,8,7
+164.29s,Not Attentive,happy,10,8,7
+164.35s,Not Attentive,happy,10,8,7
+164.41s,Not Attentive,happy,10,8,7
+164.48s,Not Attentive,happy,10,8,7
+164.54s,Not Attentive,happy,10,8,7
+164.60s,Not Attentive,happy,10,8,7
+164.71s,Not Attentive,fear,-41,2,1
+164.76s,Not Attentive,fear,-41,2,1
+164.81s,Not Attentive,fear,-41,2,1
+164.91s,Not Attentive,fear,-38,28,-19
+164.96s,Not Attentive,fear,-38,28,-19
+165.01s,Not Attentive,fear,-38,28,-19
+165.12s,Not Attentive,fear,-39,23,-7
+165.17s,Not Attentive,fear,-39,23,-7
+165.22s,Not Attentive,fear,-39,23,-7
+165.26s,Not Attentive,fear,-39,23,-7
+165.31s,Not Attentive,fear,-39,23,-7
+165.36s,Not Attentive,fear,-39,23,-7
+165.41s,Not Attentive,fear,-39,23,-7
+165.52s,Not Attentive,sad,-49,-18,-25
+165.68s,Attentive,neutral,-6,-1,9
+165.84s,Attentive,neutral,0,0,10
+166.00s,Attentive,neutral,-6,0,10
+166.05s,Attentive,neutral,-6,0,10
+166.15s,Attentive,neutral,-7,0,10
+166.20s,Attentive,neutral,-7,0,10
+166.31s,Attentive,neutral,-7,0,8
+166.35s,Attentive,neutral,-7,0,8
+166.47s,Attentive,neutral,-3,1,10
+166.57s,Not Attentive,neutral,0,2,8
+166.68s,Not Attentive,happy,45,4,14
+166.73s,Not Attentive,happy,45,4,14
+166.78s,Not Attentive,happy,45,4,14
+166.82s,Not Attentive,happy,45,4,14
+166.87s,Not Attentive,happy,45,4,14
+166.92s,Not Attentive,happy,45,4,14
+166.97s,Not Attentive,happy,45,4,14
+167.02s,Not Attentive,happy,45,4,14
+167.07s,Not Attentive,happy,45,4,14
+167.12s,Not Attentive,happy,45,4,14
+167.17s,Not Attentive,happy,45,4,14
+167.27s,Not Attentive,sad,-50,16,-9
+167.38s,Not Attentive,sad,-46,11,-6
+167.49s,Not Attentive,sad,-47,13,-6
+167.60s,Not Attentive,sad,-46,14,-7
+167.70s,Not Attentive,sad,-47,14,-8
+167.81s,Not Attentive,sad,-45,15,-8
+167.92s,Not Attentive,neutral,-42,13,-6
+168.02s,Not Attentive,sad,-39,15,-6
+168.13s,Not Attentive,neutral,-41,14,-6
+168.24s,Not Attentive,neutral,-42,14,-6
+168.34s,Not Attentive,sad,-47,14,-7
+168.64s,Not Attentive,neutral,-49,12,-6
+168.70s,Not Attentive,neutral,-49,12,-6
+168.78s,Not Attentive,neutral,-49,12,-6
+168.86s,Not Attentive,neutral,-49,12,-6
+168.94s,Not Attentive,neutral,-49,12,-6
+169.02s,Not Attentive,neutral,-49,12,-6
+169.09s,Not Attentive,neutral,-49,12,-6
+169.17s,Not Attentive,neutral,-49,12,-6
+169.22s,Not Attentive,neutral,-49,12,-6
+169.26s,Not Attentive,neutral,-49,12,-6
+169.31s,Not Attentive,neutral,-49,12,-6
+169.36s,Not Attentive,neutral,-49,12,-6
+169.47s,Not Attentive,neutral,57,5,15
+169.52s,Not Attentive,neutral,57,5,15
+169.57s,Not Attentive,neutral,57,5,15
+169.61s,Not Attentive,neutral,57,5,15
+169.66s,Not Attentive,neutral,57,5,15
+169.77s,Not Attentive,neutral,56,7,19
+169.82s,Not Attentive,neutral,56,7,19
+169.87s,Not Attentive,neutral,56,7,19
+169.92s,Not Attentive,neutral,56,7,19
+169.97s,Not Attentive,neutral,56,7,19
+170.02s,Not Attentive,neutral,56,7,19
+170.07s,Not Attentive,neutral,56,7,19
+170.12s,Not Attentive,neutral,56,7,19
+170.17s,Not Attentive,neutral,56,7,19
+170.22s,Not Attentive,neutral,56,7,19
+170.26s,Not Attentive,neutral,56,7,19
+170.31s,Not Attentive,neutral,56,7,19
+170.36s,Not Attentive,neutral,56,7,19
+170.41s,Not Attentive,neutral,56,7,19
+170.46s,Not Attentive,neutral,56,7,19
+170.51s,Not Attentive,neutral,56,7,19
+170.56s,Not Attentive,neutral,56,7,19
+170.61s,Not Attentive,neutral,56,7,19
+170.66s,Not Attentive,neutral,56,7,19
+170.71s,Not Attentive,neutral,56,7,19
+170.76s,Not Attentive,neutral,56,7,19
+170.81s,Not Attentive,neutral,56,7,19
+170.86s,Not Attentive,neutral,56,7,19
+170.91s,Not Attentive,neutral,56,7,19
+170.96s,Not Attentive,neutral,56,7,19
+171.01s,Not Attentive,neutral,56,7,19
+171.06s,Not Attentive,neutral,56,7,19
+171.11s,Not Attentive,neutral,56,7,19
+171.16s,Not Attentive,neutral,56,7,19
+171.20s,Not Attentive,neutral,56,7,19
+171.25s,Not Attentive,neutral,56,7,19
+171.30s,Not Attentive,neutral,56,7,19
+171.35s,Not Attentive,neutral,56,7,19
+171.40s,Not Attentive,neutral,56,7,19
+171.45s,Not Attentive,neutral,56,7,19
+171.50s,Not Attentive,neutral,56,7,19
+171.55s,Not Attentive,neutral,56,7,19
+171.60s,Not Attentive,neutral,56,7,19
+171.65s,Not Attentive,neutral,56,7,19
+171.69s,Not Attentive,neutral,56,7,19
+171.74s,Not Attentive,neutral,56,7,19
+171.79s,Not Attentive,neutral,56,7,19
+171.84s,Not Attentive,neutral,56,7,19
+171.89s,Not Attentive,neutral,56,7,19
+171.94s,Not Attentive,neutral,56,7,19
+171.99s,Not Attentive,neutral,56,7,19
+172.04s,Not Attentive,neutral,56,7,19
+172.09s,Not Attentive,neutral,56,7,19
+172.14s,Not Attentive,neutral,56,7,19
+172.19s,Not Attentive,neutral,56,7,19
+172.24s,Not Attentive,neutral,56,7,19
+172.29s,Not Attentive,neutral,56,7,19
+172.34s,Not Attentive,neutral,56,7,19
+172.39s,Not Attentive,neutral,56,7,19
+172.50s,Not Attentive,neutral,50,5,13
+172.60s,Not Attentive,neutral,42,8,16
+172.65s,Not Attentive,neutral,42,8,16
+172.76s,Not Attentive,neutral,40,8,23
+172.80s,Not Attentive,neutral,40,8,23
+172.85s,Not Attentive,neutral,40,8,23
+172.96s,Not Attentive,neutral,46,19,29
+173.06s,Not Attentive,neutral,43,12,25
+173.17s,Not Attentive,happy,47,6,22
+173.27s,Not Attentive,neutral,-42,11,-5
+173.43s,Not Attentive,happy,45,8,19
+173.59s,Not Attentive,neutral,35,9,16
+173.75s,Not Attentive,happy,28,13,11
+173.86s,Not Attentive,happy,-36,15,-7
+173.96s,Attentive,neutral,3,7,1
+174.07s,Attentive,neutral,-1,6,0
+174.17s,Attentive,neutral,-2,6,0
+174.28s,Attentive,neutral,0,6,0
+174.38s,Attentive,neutral,0,5,0
+174.49s,Attentive,neutral,1,7,-1
+174.59s,Attentive,neutral,4,9,-1
+174.70s,Attentive,neutral,1,8,-1
+174.81s,Attentive,neutral,0,7,-2
+174.91s,Not Attentive,neutral,-3,8,-3
+175.02s,Attentive,neutral,-1,4,-1
+175.12s,Attentive,neutral,-1,0,0
+175.22s,Attentive,neutral,-2,0,0
+175.33s,Attentive,neutral,-1,-5,0
+175.43s,Attentive,neutral,-7,-4,-2
+175.54s,Attentive,neutral,-4,-6,-2
+175.64s,Attentive,neutral,-4,0,-2
+175.74s,Attentive,neutral,0,4,-2
+175.85s,Attentive,neutral,1,10,-2
+175.96s,Attentive,neutral,2,16,-3
+176.06s,Attentive,neutral,3,18,-3
+176.16s,Attentive,neutral,4,18,-4
+176.27s,Attentive,neutral,5,20,-5
+176.46s,Attentive,neutral,2,19,-6
+176.57s,Attentive,neutral,5,19,-5
+176.67s,Attentive,neutral,4,18,-3
+176.78s,Attentive,neutral,2,17,-3
+176.89s,Attentive,neutral,7,15,0
+177.00s,Attentive,neutral,4,11,0
+177.10s,Attentive,neutral,7,8,1
+177.20s,Attentive,neutral,10,6,2
+177.31s,Attentive,neutral,6,5,2
+177.45s,Attentive,neutral,3,4,2
+177.56s,Attentive,neutral,3,2,2
+177.74s,Attentive,neutral,2,1,2
+177.86s,Attentive,neutral,3,1,1
+177.98s,Attentive,neutral,0,-1,1
+178.09s,Attentive,neutral,-2,-3,0
+178.20s,Attentive,neutral,-5,-3,0
+178.30s,Attentive,neutral,-4,-3,0
+178.41s,Attentive,neutral,-7,-2,0
+178.51s,Attentive,neutral,-6,-2,0
+178.63s,Attentive,neutral,-8,-3,0
+178.74s,Attentive,neutral,-7,-3,0
+178.86s,Attentive,neutral,-7,-2,0
+178.98s,Attentive,neutral,-9,-2,-1
+179.09s,Attentive,neutral,-8,-2,-1
+179.21s,Attentive,neutral,-7,-3,-1
+179.33s,Attentive,neutral,-10,-4,-2
+179.44s,Attentive,sad,-9,-3,-1
+179.55s,Attentive,neutral,-8,-3,-2
+179.66s,Attentive,neutral,-8,-3,-1
+179.77s,Attentive,neutral,-10,-3,-1
+179.89s,Attentive,sad,-9,-5,0
+179.99s,Attentive,sad,-5,-4,0
+180.10s,Attentive,sad,-8,-5,0
+180.23s,Attentive,neutral,-7,-5,-1
+180.34s,Attentive,neutral,-9,-5,0
+180.45s,Attentive,neutral,-8,-6,0
+180.66s,Attentive,neutral,-9,-5,0
+180.84s,Attentive,neutral,-8,-6,0
+180.96s,Attentive,neutral,-10,-3,0
+181.07s,Attentive,sad,-9,-4,0
+181.18s,Attentive,sad,-7,-3,0
+181.29s,Attentive,sad,-7,-5,0
+181.42s,Attentive,sad,-6,-4,-1
+181.53s,Attentive,sad,-7,-3,0
+181.64s,Attentive,sad,-6,-3,0
+181.77s,Attentive,angry,-5,-2,0
+181.92s,Attentive,neutral,-9,-2,-1
+182.05s,Attentive,neutral,-9,-3,-1
+182.17s,Attentive,neutral,-9,-4,0
+182.30s,Attentive,neutral,-8,-3,-1
+182.42s,Attentive,neutral,-6,-3,0
+182.54s,Attentive,neutral,-8,-4,0
+182.65s,Attentive,neutral,-3,-7,0
+182.78s,Attentive,neutral,-7,-3,0
+182.92s,Attentive,neutral,-3,-2,0
+183.05s,Attentive,neutral,-1,-1,0
+183.23s,Attentive,neutral,-2,-2,0
+183.46s,Attentive,neutral,-1,-1,0
+183.63s,Attentive,neutral,0,-2,0
+183.77s,Attentive,neutral,0,-2,0
+183.89s,Attentive,neutral,-2,-2,0
+184.00s,Attentive,neutral,-1,-1,0
+184.11s,Attentive,neutral,-3,-2,1
+184.22s,Attentive,neutral,0,-4,3
+184.33s,Attentive,neutral,-1,-3,2
+184.44s,Attentive,neutral,8,-1,3
+184.54s,Attentive,neutral,5,0,3
+184.66s,Attentive,neutral,11,0,2
+184.77s,Attentive,neutral,10,-2,3
+184.88s,Attentive,neutral,6,0,3
+185.00s,Not Attentive,neutral,5,1,4
+185.11s,Attentive,neutral,8,0,4
+185.23s,Attentive,neutral,18,0,5
+185.33s,Attentive,neutral,19,0,8
+185.44s,Attentive,neutral,20,-2,6
+185.55s,Attentive,neutral,19,0,6
+185.65s,Attentive,neutral,22,0,7
+185.77s,Attentive,neutral,21,-3,7
+185.89s,Attentive,neutral,18,0,6
+185.99s,Attentive,neutral,18,0,7
+186.10s,Attentive,neutral,21,0,6
+186.21s,Attentive,neutral,22,0,7
+186.32s,Attentive,neutral,20,0,7
+186.43s,Attentive,neutral,19,0,7
+186.55s,Attentive,neutral,23,2,8
+186.66s,Attentive,neutral,21,0,7
+186.76s,Attentive,neutral,22,1,9
+187.11s,Attentive,neutral,19,0,8
+187.36s,Attentive,neutral,21,0,8
+187.62s,Attentive,neutral,20,4,5
+187.84s,Attentive,neutral,12,7,1
+188.06s,Not Attentive,neutral,14,11,3
+188.19s,Attentive,neutral,15,14,5
+188.34s,Attentive,neutral,16,12,8
+188.48s,Attentive,neutral,16,13,10
+188.61s,Attentive,neutral,15,10,10
+188.72s,Attentive,neutral,17,10,10
+188.85s,Attentive,neutral,18,12,11
+188.98s,Attentive,neutral,17,8,10
+189.34s,Attentive,neutral,19,6,10
+189.53s,Attentive,neutral,23,9,11
+189.68s,Attentive,neutral,22,9,11
+189.79s,Attentive,neutral,22,9,10
+189.94s,Attentive,neutral,21,8,10
+190.15s,Not Attentive,neutral,15,9,10
+190.30s,Attentive,neutral,20,10,12
+190.42s,Attentive,neutral,20,11,11
+190.55s,Attentive,neutral,17,11,11
+190.66s,Attentive,neutral,16,11,9
+190.77s,Attentive,neutral,20,14,11
+190.88s,Attentive,neutral,22,12,12
+191.00s,Not Attentive,neutral,26,14,13
+191.16s,Not Attentive,happy,26,14,13
+191.29s,Not Attentive,neutral,28,13,13
+191.48s,Not Attentive,neutral,27,15,13
+191.79s,Attentive,neutral,25,16,14
+192.00s,Not Attentive,neutral,29,16,14
+192.15s,Not Attentive,neutral,29,12,13
+192.27s,Not Attentive,neutral,26,14,15
+192.41s,Not Attentive,neutral,26,11,15
+192.54s,Not Attentive,neutral,26,10,15
+192.65s,Not Attentive,neutral,29,5,13
+192.77s,Not Attentive,neutral,29,2,14
+192.89s,Not Attentive,happy,31,0,12
+193.00s,Not Attentive,neutral,30,0,12
+193.11s,Not Attentive,neutral,30,4,14
+193.23s,Not Attentive,neutral,29,3,13
+193.34s,Not Attentive,neutral,29,4,13
+193.45s,Not Attentive,neutral,28,9,14
+193.58s,Not Attentive,neutral,27,10,12
+193.70s,Attentive,neutral,16,8,9
+193.83s,Attentive,neutral,14,7,10
+193.95s,Attentive,neutral,9,9,10
+194.06s,Attentive,neutral,11,8,10
+194.19s,Attentive,neutral,14,8,10
+194.39s,Attentive,neutral,12,8,9
+194.51s,Attentive,neutral,18,9,6
+194.63s,Attentive,neutral,18,10,7
+194.74s,Attentive,neutral,17,10,7
+194.86s,Attentive,neutral,18,12,7
+194.98s,Attentive,neutral,15,11,6
+195.11s,Attentive,neutral,12,12,6
+195.26s,Attentive,neutral,15,10,6
+195.45s,Not Attentive,neutral,12,8,4
+195.61s,Attentive,neutral,17,10,7
+196.17s,Attentive,neutral,8,10,9
+196.57s,Attentive,neutral,17,13,7
+196.85s,Attentive,neutral,20,12,6
+197.08s,Attentive,neutral,15,11,4
+197.29s,Attentive,neutral,15,10,3
+197.57s,Attentive,neutral,9,9,2
+197.80s,Attentive,neutral,5,8,0
+198.01s,Attentive,neutral,6,7,1
+198.26s,Attentive,neutral,7,9,2
+198.51s,Attentive,neutral,16,10,4
+198.72s,Not Attentive,neutral,20,7,4
+198.93s,Attentive,neutral,12,8,3
+199.11s,Attentive,neutral,14,6,3
+199.26s,Attentive,neutral,16,7,3
+199.44s,Attentive,neutral,19,8,5
+199.59s,Attentive,neutral,17,8,6
+199.74s,Attentive,neutral,23,6,6
+199.87s,Attentive,neutral,22,9,9
+200.01s,Attentive,neutral,22,8,9
+200.16s,Not Attentive,neutral,26,9,12
+200.27s,Not Attentive,neutral,28,8,15
+200.42s,Not Attentive,neutral,27,9,14
+200.56s,Not Attentive,neutral,33,9,14
+200.71s,Not Attentive,neutral,31,10,12
+200.83s,Not Attentive,neutral,32,9,13
+201.00s,Not Attentive,neutral,31,9,13
+201.13s,Not Attentive,neutral,29,7,10
+201.28s,Not Attentive,neutral,28,7,11
+201.40s,Not Attentive,neutral,26,4,10
+201.56s,Attentive,neutral,24,7,10
+201.70s,Attentive,neutral,25,4,8
+201.86s,Attentive,neutral,21,6,9
+202.00s,Attentive,neutral,22,5,10
+202.16s,Attentive,neutral,20,6,10
+202.31s,Attentive,neutral,22,5,9
+202.46s,Attentive,neutral,20,4,10
+202.61s,Attentive,neutral,19,6,10
+202.75s,Attentive,neutral,22,8,11
+202.92s,Attentive,neutral,23,6,10
+203.06s,Attentive,neutral,25,6,12
+203.20s,Not Attentive,neutral,26,8,12
+203.36s,Attentive,neutral,22,7,11
+203.53s,Attentive,neutral,24,7,12
+203.66s,Attentive,neutral,25,6,12
+203.80s,Attentive,neutral,25,8,12
+203.94s,Attentive,neutral,25,7,12
+204.07s,Not Attentive,neutral,26,8,12
+204.22s,Not Attentive,neutral,28,8,13
+204.37s,Attentive,neutral,24,7,12
+204.49s,Not Attentive,neutral,26,9,13
+204.63s,Not Attentive,neutral,29,9,13
+204.77s,Not Attentive,neutral,31,0,10
+205.01s,Not Attentive,neutral,27,9,14
+205.21s,Not Attentive,neutral,31,0,10
+205.35s,Not Attentive,neutral,33,1,11
+205.52s,Not Attentive,neutral,34,0,10
+205.76s,Not Attentive,neutral,37,7,17
+205.95s,Not Attentive,neutral,31,5,14
+206.08s,Not Attentive,neutral,32,4,14
+206.22s,Not Attentive,neutral,33,3,13
+206.37s,Not Attentive,neutral,33,3,12
+206.51s,Not Attentive,neutral,36,3,11
+206.64s,Not Attentive,neutral,32,2,11
+206.79s,Not Attentive,neutral,32,3,12
+206.97s,Not Attentive,neutral,34,0,10
+207.13s,Not Attentive,neutral,33,4,11
+207.27s,Not Attentive,neutral,33,2,11
+207.43s,Not Attentive,neutral,34,-1,9
+207.56s,Not Attentive,neutral,31,6,14
+207.69s,Not Attentive,neutral,30,4,14
+207.97s,Not Attentive,neutral,30,6,14
+208.11s,Not Attentive,neutral,31,1,12
+208.27s,Not Attentive,neutral,32,4,13
+208.44s,Not Attentive,neutral,34,0,9
+208.61s,Not Attentive,neutral,31,4,13
+208.78s,Not Attentive,neutral,33,6,14
+208.97s,Not Attentive,neutral,32,1,13
+209.15s,Not Attentive,neutral,31,2,12
+209.32s,Not Attentive,neutral,32,3,12
+209.46s,Not Attentive,neutral,34,5,13
+209.60s,Not Attentive,neutral,31,7,14
+209.73s,Not Attentive,neutral,30,5,13
+209.87s,Not Attentive,neutral,30,9,15
+210.01s,Not Attentive,neutral,30,8,13
+210.15s,Not Attentive,neutral,32,10,15
+210.29s,Not Attentive,neutral,32,10,16
+210.43s,Not Attentive,neutral,31,7,13
+210.56s,Not Attentive,neutral,31,1,10
+210.68s,Not Attentive,neutral,30,7,14
+210.81s,Not Attentive,happy,31,6,13
+210.95s,Not Attentive,happy,28,9,14
+211.07s,Attentive,happy,25,5,12
+211.17s,Attentive,happy,23,3,13
+211.27s,Attentive,happy,24,3,14
+211.38s,Attentive,happy,25,2,14
+211.53s,Attentive,happy,22,1,12
+211.64s,Attentive,happy,23,10,15
+211.77s,Attentive,happy,22,8,14
+211.93s,Not Attentive,happy,27,9,16
+212.03s,Not Attentive,happy,35,-9,1
+212.14s,Attentive,happy,15,3,0
+212.24s,Attentive,neutral,-20,13,-4
+212.34s,Attentive,neutral,-25,15,-6
+212.45s,Attentive,sad,-25,15,-6
+212.55s,Attentive,happy,0,10,0
+212.65s,Not Attentive,happy,37,0,6
+212.76s,Not Attentive,happy,33,-10,10
+212.87s,Not Attentive,happy,27,-4,12
+212.97s,Attentive,happy,22,-2,9
+213.08s,Not Attentive,happy,16,-2,11
+213.18s,Attentive,happy,16,-1,12
+213.29s,Attentive,happy,19,0,13
+213.40s,Attentive,happy,18,-4,12
+213.50s,Attentive,happy,21,-1,10
+213.61s,Attentive,happy,24,-4,9
+213.71s,Not Attentive,happy,26,0,10
+213.81s,Not Attentive,happy,26,1,9
+213.92s,Not Attentive,happy,27,-2,12
+214.02s,Not Attentive,happy,27,-6,10
+214.13s,Not Attentive,happy,27,-6,11
+214.23s,Not Attentive,happy,27,-5,12
+214.34s,Attentive,happy,24,-3,13
+214.44s,Not Attentive,happy,26,-4,13
+214.55s,Not Attentive,happy,27,-1,13
+214.65s,Not Attentive,happy,27,-5,13
+214.78s,Not Attentive,happy,28,-2,14
+214.90s,Attentive,happy,25,-1,14
+215.03s,Not Attentive,happy,26,0,14
+215.13s,Attentive,happy,25,0,15
+215.26s,Attentive,happy,25,0,16
+215.37s,Attentive,happy,23,-1,12
+215.48s,Not Attentive,happy,27,-1,8
+215.58s,Not Attentive,happy,28,-2,8
+215.71s,Not Attentive,happy,28,-1,8
+215.82s,Not Attentive,happy,28,0,10
+215.95s,Not Attentive,happy,30,0,9
+216.05s,Not Attentive,happy,28,2,11
+216.16s,Not Attentive,happy,28,5,13
+216.29s,Not Attentive,happy,29,6,14
+216.40s,Not Attentive,happy,31,2,10
+216.52s,Not Attentive,happy,32,6,15
+216.64s,Not Attentive,happy,35,0,10
+216.76s,Not Attentive,neutral,27,11,17
+216.87s,Not Attentive,neutral,26,16,17
+216.99s,Not Attentive,neutral,28,18,18
+217.10s,Not Attentive,happy,33,9,12
+217.22s,Not Attentive,neutral,30,18,17
+217.34s,Not Attentive,happy,29,18,16
+217.46s,Not Attentive,neutral,29,18,16
+217.59s,Not Attentive,neutral,33,8,12
+217.71s,Not Attentive,neutral,28,17,15
+217.84s,Not Attentive,neutral,28,15,15
+217.97s,Not Attentive,neutral,30,14,16
+218.09s,Not Attentive,neutral,30,17,18
+218.21s,Not Attentive,neutral,32,14,15
+218.33s,Attentive,neutral,25,20,13
+218.46s,Not Attentive,neutral,28,20,12
+218.59s,Attentive,neutral,23,27,10
+218.70s,Attentive,neutral,24,25,7
+218.84s,Attentive,neutral,22,26,4
+218.95s,Attentive,neutral,22,24,2
+219.07s,Not Attentive,neutral,24,22,1
+219.19s,Attentive,happy,24,21,1
+219.30s,Attentive,neutral,23,19,0
+219.43s,Attentive,neutral,19,16,-1
+219.54s,Attentive,neutral,20,15,0
+219.69s,Attentive,neutral,20,13,0
+219.81s,Attentive,neutral,21,13,0
+219.94s,Attentive,neutral,22,10,0
+220.06s,Not Attentive,neutral,18,11,0
+220.18s,Not Attentive,neutral,18,12,0
+220.29s,Attentive,neutral,20,9,0
+220.41s,Attentive,neutral,18,10,0
+220.56s,Attentive,neutral,19,9,0
+220.72s,Attentive,neutral,20,10,1
+220.87s,Attentive,neutral,16,6,1
+221.06s,Attentive,neutral,22,5,4
+221.21s,Attentive,neutral,23,5,6
+221.33s,Attentive,neutral,23,6,8
+221.49s,Attentive,happy,24,3,7
+221.61s,Attentive,neutral,21,8,9
+221.81s,Attentive,neutral,23,7,9
+221.96s,Attentive,neutral,25,7,12
+222.42s,Attentive,neutral,24,11,12
+222.59s,Attentive,neutral,22,9,10
+222.74s,Attentive,neutral,23,9,10
+222.99s,Attentive,neutral,21,9,9
+223.30s,Attentive,neutral,18,8,8
+223.48s,Not Attentive,neutral,14,1,6
+223.61s,Attentive,neutral,16,4,5
+223.79s,Attentive,neutral,18,5,7
+223.95s,Attentive,neutral,17,2,6
+224.06s,Attentive,neutral,17,3,7
+224.35s,Attentive,neutral,19,3,7
+224.46s,Not Attentive,neutral,18,10,5
+224.56s,Attentive,neutral,14,8,4
+224.67s,Attentive,neutral,4,7,0
+224.77s,Attentive,neutral,3,6,0
+224.88s,Attentive,neutral,-1,4,0
+224.99s,Attentive,neutral,-3,0,1
+225.12s,Attentive,neutral,-2,-3,2
+225.26s,Attentive,neutral,-1,2,0
+225.37s,Attentive,neutral,-3,5,-2
+225.48s,Attentive,neutral,-10,7,-3
+225.60s,Attentive,neutral,-12,7,-2
+225.72s,Attentive,neutral,-10,10,-4
+225.83s,Attentive,neutral,-11,7,-5
+225.94s,Attentive,neutral,-12,5,-5
+226.06s,Attentive,neutral,-16,5,-8
+226.17s,Attentive,neutral,-15,3,-6
+226.28s,Attentive,neutral,-11,6,-7
+226.39s,Attentive,neutral,-12,8,-6
+226.49s,Attentive,neutral,-8,10,-6
+226.59s,Attentive,neutral,-8,8,-6
+226.70s,Attentive,neutral,-8,9,-7
+226.81s,Attentive,neutral,-6,9,-6
+226.91s,Attentive,neutral,-9,6,-7
+227.05s,Attentive,neutral,-8,4,-7
+227.16s,Attentive,neutral,-8,4,-5
+227.26s,Attentive,neutral,-5,6,-5
+227.36s,Attentive,neutral,-7,6,-5
+227.47s,Attentive,neutral,-5,6,-5
+227.57s,Attentive,neutral,-7,5,-5
+227.68s,Attentive,neutral,-6,6,-5
+227.79s,Attentive,neutral,-7,4,-5
+227.89s,Attentive,neutral,-7,5,-5
+227.99s,Attentive,neutral,-6,7,-4
+228.10s,Attentive,neutral,-4,6,-4
+228.21s,Attentive,neutral,-5,7,-4
+228.31s,Attentive,neutral,-6,8,-4
+228.42s,Attentive,neutral,-6,9,-5
+228.52s,Not Attentive,neutral,-7,10,-5
+228.62s,Not Attentive,neutral,-4,15,-4
+228.73s,Attentive,neutral,-5,15,-4
+228.78s,Attentive,neutral,-5,15,-4
+228.83s,Attentive,neutral,-5,15,-4
+228.88s,Attentive,neutral,-5,15,-4
+228.93s,Attentive,neutral,-5,15,-4
+228.98s,Attentive,neutral,-5,15,-4
+229.03s,Attentive,neutral,-5,15,-4
+229.08s,Attentive,neutral,-5,15,-4
+229.12s,Attentive,neutral,-5,15,-4
+229.17s,Attentive,neutral,-5,15,-4
+229.22s,Attentive,neutral,-5,15,-4
+229.28s,Attentive,neutral,-5,15,-4
+229.38s,Attentive,neutral,-5,15,-4
+229.45s,Attentive,neutral,-5,15,-4
+229.50s,Attentive,neutral,-5,15,-4
+229.54s,Attentive,neutral,-5,15,-4
+229.59s,Attentive,neutral,-5,15,-4
+229.64s,Attentive,neutral,-5,15,-4
+229.69s,Attentive,neutral,-5,15,-4
+229.74s,Attentive,neutral,-5,15,-4
+229.79s,Attentive,neutral,-5,15,-4
+229.84s,Attentive,neutral,-5,15,-4
+229.89s,Attentive,neutral,-5,15,-4
+229.94s,Attentive,neutral,-5,15,-4
+229.99s,Attentive,neutral,-5,15,-4
+230.04s,Attentive,neutral,-5,15,-4
+230.09s,Attentive,neutral,-5,15,-4
+230.14s,Attentive,neutral,-5,15,-4
+230.19s,Attentive,neutral,-5,15,-4
+230.24s,Attentive,neutral,-5,15,-4
+230.29s,Attentive,neutral,-5,15,-4
+230.34s,Attentive,neutral,-5,15,-4
+230.39s,Attentive,neutral,-5,15,-4
+230.44s,Attentive,neutral,-5,15,-4
+230.54s,Not Attentive,neutral,-68,-41,-27
+230.65s,Not Attentive,neutral,-66,-38,-24
+230.75s,Not Attentive,sad,-51,-20,-6
+230.86s,Not Attentive,sad,18,15,-4
+230.97s,Not Attentive,sad,35,21,2
+231.07s,Not Attentive,neutral,44,21,8
+231.18s,Not Attentive,neutral,42,23,7
+231.29s,Not Attentive,neutral,41,23,8
+231.39s,Not Attentive,neutral,39,22,6
+231.50s,Not Attentive,neutral,38,22,6
+231.60s,Not Attentive,neutral,39,22,7
+231.74s,Not Attentive,neutral,40,22,7
+231.85s,Not Attentive,neutral,39,22,7
+231.96s,Not Attentive,neutral,40,22,8
+232.06s,Not Attentive,neutral,39,23,7
+232.17s,Not Attentive,neutral,41,22,9
+232.27s,Not Attentive,neutral,39,24,8
+232.38s,Not Attentive,sad,39,24,7
+232.51s,Not Attentive,neutral,38,22,7
+232.65s,Not Attentive,neutral,41,20,8
+232.75s,Not Attentive,neutral,41,19,9
+232.86s,Not Attentive,neutral,42,22,10
+232.97s,Not Attentive,neutral,39,26,9
+233.07s,Not Attentive,neutral,39,22,9
+233.18s,Not Attentive,neutral,39,21,8
+233.28s,Not Attentive,neutral,40,19,8
+233.39s,Not Attentive,neutral,39,20,8
+233.49s,Not Attentive,neutral,43,19,8
+233.60s,Not Attentive,neutral,40,20,8
+233.70s,Not Attentive,neutral,41,20,9
+233.81s,Not Attentive,neutral,45,21,11
+233.91s,Not Attentive,neutral,43,20,11
+234.02s,Not Attentive,neutral,43,19,10
+234.12s,Not Attentive,neutral,40,20,12
+234.22s,Not Attentive,neutral,30,22,11
+234.33s,Not Attentive,neutral,34,25,16
+234.44s,Not Attentive,neutral,32,24,17
+234.54s,Not Attentive,neutral,30,27,17
+234.65s,Not Attentive,neutral,36,30,20
+234.75s,Not Attentive,neutral,46,34,25
+234.86s,Not Attentive,neutral,51,37,27
+234.96s,Not Attentive,neutral,51,36,26
+235.07s,Not Attentive,neutral,51,35,24
+235.18s,Not Attentive,neutral,49,34,23
+235.28s,Not Attentive,neutral,50,35,23
+235.39s,Not Attentive,neutral,51,32,22
+235.49s,Not Attentive,neutral,52,33,23
+235.60s,Not Attentive,neutral,49,31,21
+235.71s,Not Attentive,neutral,43,25,17
+235.81s,Not Attentive,neutral,43,24,15
+235.92s,Not Attentive,neutral,41,24,14
+236.02s,Not Attentive,neutral,43,24,16
+236.13s,Not Attentive,neutral,42,24,15
+236.24s,Not Attentive,neutral,41,24,15
+236.36s,Not Attentive,neutral,37,23,14
+236.47s,Not Attentive,neutral,36,22,13
+236.58s,Not Attentive,neutral,37,23,14
+236.68s,Not Attentive,neutral,34,23,13
+236.79s,Not Attentive,neutral,37,23,14
+236.90s,Not Attentive,neutral,35,19,13
+237.01s,Not Attentive,neutral,35,26,13
+237.11s,Not Attentive,neutral,33,27,14
+237.22s,Not Attentive,neutral,35,24,14
+237.33s,Not Attentive,neutral,26,21,11
+237.43s,Not Attentive,neutral,28,23,11
+237.54s,Not Attentive,neutral,31,23,12
+237.64s,Not Attentive,neutral,33,23,14
+237.75s,Not Attentive,neutral,32,23,12
+237.86s,Not Attentive,neutral,32,24,11
+237.97s,Not Attentive,neutral,34,24,12
+238.07s,Not Attentive,neutral,32,24,12
+238.18s,Not Attentive,neutral,30,21,9
+238.29s,Not Attentive,neutral,31,22,11
+238.40s,Not Attentive,neutral,36,25,15
+238.50s,Not Attentive,neutral,35,27,17
+238.61s,Not Attentive,neutral,32,26,15
+238.72s,Not Attentive,neutral,42,35,24
+238.83s,Not Attentive,neutral,44,33,23
+238.93s,Not Attentive,neutral,45,34,24
+239.04s,Not Attentive,neutral,49,35,25
+239.15s,Not Attentive,neutral,42,29,21
+239.25s,Not Attentive,neutral,39,31,22
+239.35s,Not Attentive,sad,42,34,25
+239.46s,Not Attentive,neutral,44,34,25
+239.57s,Not Attentive,sad,50,34,28
+239.67s,Not Attentive,neutral,51,35,28
+239.96s,Not Attentive,sad,46,37,28
+240.07s,Not Attentive,neutral,33,34,23
+240.17s,Not Attentive,neutral,36,33,25
+240.28s,Not Attentive,neutral,34,35,25
+240.39s,Not Attentive,neutral,31,34,24
+240.49s,Not Attentive,neutral,27,34,23
+240.60s,Not Attentive,neutral,34,37,28
+240.71s,Not Attentive,neutral,41,35,27
+240.81s,Not Attentive,neutral,44,39,29
+240.91s,Not Attentive,neutral,46,38,30
+241.02s,Not Attentive,neutral,50,38,30
+241.13s,Not Attentive,neutral,52,39,31
+241.23s,Not Attentive,neutral,52,41,33
+241.34s,Not Attentive,neutral,50,42,31
+241.44s,Not Attentive,neutral,50,39,31
+241.55s,Not Attentive,sad,49,42,33
+241.65s,Not Attentive,sad,44,39,31
+241.76s,Not Attentive,neutral,39,35,26
+241.87s,Not Attentive,neutral,37,32,25
+241.98s,Not Attentive,sad,36,34,24
+242.08s,Not Attentive,neutral,35,32,24
+242.19s,Not Attentive,neutral,33,34,22
+242.29s,Not Attentive,sad,33,32,22
+242.39s,Not Attentive,neutral,32,33,21
+242.50s,Not Attentive,neutral,37,31,24
+242.60s,Not Attentive,sad,34,33,22
+242.71s,Not Attentive,neutral,38,30,23
+242.81s,Not Attentive,neutral,36,30,22
+242.92s,Not Attentive,neutral,36,30,22
+243.02s,Not Attentive,neutral,37,29,22
+243.13s,Not Attentive,sad,35,30,22
+243.24s,Not Attentive,sad,35,32,21
+243.34s,Not Attentive,sad,34,31,21
+243.46s,Not Attentive,sad,34,31,21
+243.57s,Not Attentive,sad,35,31,22
+243.67s,Not Attentive,neutral,39,28,22
+243.78s,Not Attentive,neutral,38,29,22
+243.88s,Not Attentive,neutral,39,29,22
+243.99s,Not Attentive,sad,34,29,20
+244.09s,Not Attentive,sad,34,30,20
+244.20s,Not Attentive,sad,34,29,20
+244.31s,Not Attentive,neutral,31,29,18
+244.42s,Not Attentive,neutral,32,29,18
+244.52s,Not Attentive,neutral,35,29,20
+244.63s,Not Attentive,neutral,32,26,16
+244.73s,Not Attentive,sad,22,23,9
+244.83s,Not Attentive,sad,-6,14,-2
+244.88s,Not Attentive,sad,-6,14,-2
+244.93s,Not Attentive,sad,-6,14,-2
+244.98s,Not Attentive,sad,-6,14,-2
+245.03s,Not Attentive,sad,-6,14,-2
+245.08s,Not Attentive,sad,-6,14,-2
+245.12s,Not Attentive,sad,-6,14,-2
+245.17s,Not Attentive,sad,-6,14,-2
+245.22s,Not Attentive,sad,-6,14,-2
+245.27s,Not Attentive,sad,-6,14,-2
+245.32s,Not Attentive,sad,-6,14,-2
+245.37s,Not Attentive,sad,-6,14,-2
+245.42s,Not Attentive,sad,-6,14,-2
+245.47s,Not Attentive,sad,-6,14,-2
+245.51s,Not Attentive,sad,-6,14,-2
+245.56s,Not Attentive,sad,-6,14,-2
+245.62s,Not Attentive,sad,-6,14,-2
+245.67s,Not Attentive,sad,-6,14,-2
+245.71s,Not Attentive,sad,-6,14,-2
+245.76s,Not Attentive,sad,-6,14,-2
+245.81s,Not Attentive,sad,-6,14,-2
+245.86s,Not Attentive,sad,-6,14,-2
+245.91s,Not Attentive,sad,-6,14,-2
+245.96s,Not Attentive,sad,-6,14,-2
+246.01s,Not Attentive,sad,-6,14,-2
+246.06s,Not Attentive,sad,-6,14,-2
+246.11s,Not Attentive,sad,-6,14,-2
+246.15s,Not Attentive,sad,-6,14,-2
+246.20s,Not Attentive,sad,-6,14,-2
+246.25s,Not Attentive,sad,-6,14,-2
+246.30s,Not Attentive,sad,-6,14,-2
+246.35s,Not Attentive,sad,-6,14,-2
+246.40s,Not Attentive,sad,-6,14,-2
+246.45s,Not Attentive,sad,-6,14,-2
+246.50s,Not Attentive,sad,-6,14,-2
+246.54s,Not Attentive,sad,-6,14,-2
+246.59s,Not Attentive,sad,-6,14,-2
+246.64s,Not Attentive,sad,-6,14,-2
+246.69s,Not Attentive,sad,-6,14,-2
+246.74s,Not Attentive,sad,-6,14,-2
+246.85s,Not Attentive,happy,-16,-1,-1
+246.95s,Attentive,happy,-22,-3,-2
+247.06s,Attentive,happy,-18,-3,-3
+247.16s,Attentive,happy,-21,-1,-4
+247.26s,Attentive,neutral,-20,2,-7
+247.39s,Attentive,neutral,-20,3,-8
+247.50s,Attentive,neutral,-15,5,-10
+247.60s,Attentive,neutral,-19,6,-11
+247.71s,Attentive,happy,-22,9,-12
+247.81s,Attentive,neutral,-19,10,-11
+247.92s,Attentive,neutral,-19,10,-12
+248.03s,Attentive,happy,-15,9,-10
+248.13s,Attentive,happy,-13,8,-6
+248.24s,Attentive,happy,-5,6,-3
+248.34s,Attentive,neutral,0,5,-3
+248.45s,Attentive,neutral,0,6,-3
+248.56s,Attentive,neutral,-4,5,-4
+248.66s,Attentive,neutral,-2,7,-4
+248.77s,Attentive,neutral,-5,5,-5
+248.88s,Attentive,neutral,-3,6,-4
+248.98s,Attentive,neutral,-2,8,-4
+249.09s,Attentive,neutral,1,8,-4
+249.19s,Attentive,neutral,-2,9,-5
+249.30s,Attentive,happy,-2,8,-5
+249.40s,Attentive,happy,-4,9,-6
+249.51s,Attentive,happy,-10,8,-6
+249.61s,Attentive,happy,-13,7,-5
+249.72s,Attentive,happy,-15,5,-6
+249.82s,Attentive,happy,-11,7,-7
+249.93s,Attentive,happy,-9,7,-6
+250.04s,Attentive,happy,-10,7,-6
+250.14s,Not Attentive,happy,-6,6,-6
+250.25s,Attentive,happy,-10,5,-6
+250.36s,Attentive,happy,-7,5,-5
+250.46s,Not Attentive,happy,-5,2,-4
+250.58s,Not Attentive,happy,-9,4,-5
+250.69s,Attentive,happy,-8,2,-5
+250.79s,Not Attentive,happy,-6,0,-3
+250.90s,Not Attentive,happy,-9,0,-3
+251.01s,Not Attentive,happy,-13,-1,-2
+251.11s,Not Attentive,happy,-7,-2,0
+251.21s,Not Attentive,happy,-7,0,-1
+251.32s,Not Attentive,happy,-7,0,-1
+251.44s,Not Attentive,happy,-9,1,-1
+251.55s,Not Attentive,happy,-8,0,-2
+251.65s,Not Attentive,happy,-6,0,-3
+251.76s,Not Attentive,happy,-9,2,-4
+251.86s,Not Attentive,happy,-12,1,-4
+251.97s,Not Attentive,happy,-12,4,-5
+252.07s,Not Attentive,happy,-11,5,-4
+252.18s,Attentive,happy,-13,6,-6
+252.29s,Attentive,happy,-12,6,-5
+252.39s,Attentive,happy,-9,9,-5
+252.50s,Attentive,happy,-10,10,-5
+252.60s,Attentive,neutral,-11,11,-6
+252.71s,Attentive,happy,-12,13,-7
+252.82s,Attentive,neutral,-6,14,-6
+252.92s,Not Attentive,neutral,-8,16,-7
+253.03s,Attentive,neutral,-5,17,-7
+253.14s,Not Attentive,neutral,-3,15,-6
+253.24s,Not Attentive,neutral,-1,18,-4
+253.35s,Attentive,neutral,0,20,-2
+253.47s,Not Attentive,neutral,1,19,0
+253.57s,Attentive,neutral,3,16,4
+253.72s,Not Attentive,neutral,9,14,6
+253.85s,Attentive,neutral,10,15,9
+253.95s,Attentive,neutral,8,16,10
+254.06s,Attentive,neutral,6,16,9
+254.16s,Attentive,neutral,6,15,8
+254.26s,Attentive,neutral,4,14,8
+254.37s,Attentive,neutral,1,17,7
+254.48s,Not Attentive,neutral,1,14,6
+254.58s,Attentive,neutral,0,17,4
+254.69s,Not Attentive,neutral,0,16,4
+254.79s,Not Attentive,neutral,0,16,4
+254.90s,Attentive,neutral,0,18,3
+255.01s,Attentive,neutral,2,17,3
+255.12s,Attentive,happy,3,20,2
+255.22s,Not Attentive,happy,5,15,3
+255.32s,Attentive,neutral,8,15,3
+255.43s,Not Attentive,neutral,9,12,3
+255.73s,Not Attentive,happy,0,11,2
+255.85s,Not Attentive,happy,14,10,2
+256.01s,Not Attentive,happy,13,10,5
+256.17s,Not Attentive,happy,19,-12,0
+256.33s,Attentive,happy,24,-8,2
+256.48s,Not Attentive,happy,26,-5,5
+256.64s,Not Attentive,happy,26,-5,11
+256.79s,Attentive,happy,16,-2,8
+256.93s,Attentive,happy,22,0,7
+257.07s,Attentive,happy,22,-4,4
+257.22s,Attentive,happy,23,-3,6
+257.36s,Not Attentive,happy,23,1,9
+257.49s,Not Attentive,happy,23,1,8
+257.63s,Not Attentive,happy,23,-7,5
+257.77s,Attentive,happy,20,-6,0
+257.91s,Not Attentive,happy,22,-1,4
+258.04s,Not Attentive,happy,22,0,9
+258.18s,Attentive,sad,19,7,2
+258.30s,Not Attentive,neutral,29,-2,-3
+258.43s,Attentive,happy,23,3,6
+258.56s,Attentive,sad,24,-1,-7
+258.62s,Attentive,sad,24,-1,-7
+258.68s,Attentive,sad,24,-1,-7
+258.74s,Attentive,sad,24,-1,-7
+258.80s,Attentive,sad,24,-1,-7
+258.85s,Attentive,sad,24,-1,-7
+258.90s,Attentive,sad,24,-1,-7
+258.95s,Attentive,sad,24,-1,-7
+259.05s,Not Attentive,sad,45,0,2
+259.10s,Not Attentive,sad,45,0,2
+259.15s,Not Attentive,sad,45,0,2
+259.20s,Not Attentive,sad,45,0,2
+259.25s,Not Attentive,sad,45,0,2
+259.30s,Not Attentive,sad,45,0,2
+259.34s,Not Attentive,sad,45,0,2
+259.39s,Not Attentive,sad,45,0,2
+259.44s,Not Attentive,sad,45,0,2
+259.49s,Not Attentive,sad,45,0,2
+259.54s,Not Attentive,sad,45,0,2
+259.59s,Not Attentive,sad,45,0,2
+259.69s,Not Attentive,sad,28,4,4
+259.74s,Not Attentive,sad,28,4,4
+259.84s,Attentive,happy,24,-4,8
+259.89s,Attentive,happy,24,-4,8
+259.94s,Attentive,happy,24,-4,8
+259.99s,Attentive,happy,24,-4,8
+260.10s,Attentive,neutral,23,8,8
+260.21s,Not Attentive,neutral,20,5,7
+260.31s,Not Attentive,happy,30,7,8
+260.42s,Not Attentive,happy,26,2,7
+260.52s,Not Attentive,neutral,28,9,12
+260.57s,Not Attentive,neutral,28,9,12
+260.62s,Not Attentive,neutral,28,9,12
+260.67s,Not Attentive,neutral,28,9,12
+260.77s,Not Attentive,sad,26,8,6
+260.88s,Attentive,sad,15,14,7
+260.93s,Attentive,sad,15,14,7
+260.98s,Attentive,sad,15,14,7
+261.03s,Attentive,sad,15,14,7
+261.13s,Not Attentive,angry,27,5,4
+261.23s,Attentive,neutral,22,10,4
+261.33s,Attentive,sad,10,6,0
+261.44s,Attentive,neutral,3,10,-1
+261.55s,Attentive,sad,-15,15,-6
+261.59s,Attentive,sad,-15,15,-6
+261.64s,Attentive,sad,-15,15,-6
+261.69s,Attentive,sad,-15,15,-6
+261.74s,Attentive,sad,-15,15,-6
+261.79s,Attentive,sad,-15,15,-6
+261.84s,Attentive,sad,-15,15,-6
+261.89s,Attentive,sad,-15,15,-6
+261.94s,Attentive,sad,-15,15,-6
+261.99s,Attentive,sad,-15,15,-6
+262.04s,Attentive,sad,-15,15,-6
+262.14s,Attentive,sad,16,6,1
+262.25s,Attentive,neutral,18,4,0
+262.36s,Attentive,sad,18,1,0
+262.46s,Attentive,neutral,20,2,0
+262.56s,Attentive,sad,9,8,2
+262.67s,Attentive,sad,21,-2,-1
+262.77s,Attentive,neutral,24,8,8
+262.82s,Attentive,neutral,24,8,8
+262.87s,Attentive,neutral,24,8,8
+262.92s,Attentive,neutral,24,8,8
+263.02s,Attentive,sad,13,3,11
+263.07s,Attentive,sad,13,3,11
+263.18s,Attentive,sad,9,7,5
+263.28s,Not Attentive,neutral,8,10,1
+263.39s,Attentive,sad,22,2,3
+263.44s,Attentive,sad,22,2,3
+263.55s,Attentive,neutral,12,5,2
+263.65s,Attentive,neutral,21,4,2
+263.76s,Not Attentive,neutral,26,3,3
+263.87s,Not Attentive,neutral,29,3,5
+263.91s,Not Attentive,neutral,29,3,5
+263.96s,Not Attentive,neutral,29,3,5
+264.01s,Not Attentive,neutral,29,3,5
+264.06s,Not Attentive,neutral,29,3,5
+264.11s,Not Attentive,neutral,29,3,5
+264.17s,Not Attentive,neutral,29,3,5
+264.22s,Not Attentive,neutral,29,3,5
+264.28s,Not Attentive,neutral,29,3,5
+264.34s,Not Attentive,neutral,29,3,5
+264.40s,Not Attentive,neutral,29,3,5
+264.45s,Not Attentive,neutral,29,3,5
+264.51s,Not Attentive,neutral,29,3,5
+264.61s,Not Attentive,neutral,29,3,5
+264.67s,Not Attentive,neutral,29,3,5
+264.73s,Not Attentive,neutral,29,3,5
+264.79s,Not Attentive,neutral,29,3,5
+264.86s,Not Attentive,neutral,29,3,5
+264.97s,Not Attentive,neutral,26,7,12
+265.02s,Not Attentive,neutral,26,7,12
+265.07s,Not Attentive,neutral,26,7,12
+265.12s,Not Attentive,neutral,26,7,12
+265.17s,Not Attentive,neutral,26,7,12
+265.22s,Not Attentive,neutral,26,7,12
+265.27s,Not Attentive,neutral,26,7,12
+265.32s,Not Attentive,neutral,26,7,12
+265.36s,Not Attentive,neutral,26,7,12
+265.41s,Not Attentive,neutral,26,7,12
+265.46s,Not Attentive,neutral,26,7,12
+265.57s,Attentive,happy,7,9,11
+265.67s,Attentive,happy,16,9,11
+265.72s,Attentive,happy,16,9,11
+265.83s,Attentive,happy,14,10,11
+265.96s,Attentive,happy,21,11,12
+266.02s,Attentive,happy,21,11,12
+266.08s,Attentive,happy,21,11,12
+266.14s,Attentive,happy,21,11,12
+266.19s,Attentive,happy,21,11,12
+266.29s,Attentive,happy,3,15,13
+266.34s,Attentive,happy,3,15,13
+266.39s,Attentive,happy,3,15,13
+266.45s,Attentive,happy,3,15,13
+266.50s,Attentive,happy,3,15,13
+266.60s,Attentive,happy,18,-1,9
+266.71s,Attentive,happy,21,0,10
+266.82s,Not Attentive,happy,28,3,11
+266.93s,Not Attentive,happy,20,6,15
+267.03s,Attentive,happy,13,0,12
+267.14s,Not Attentive,happy,5,7,9
+267.24s,Attentive,happy,-2,11,9
+267.35s,Not Attentive,happy,-3,16,9
+267.45s,Not Attentive,happy,-9,15,8
+267.56s,Attentive,happy,-14,20,6
+267.66s,Not Attentive,happy,-16,18,3
+267.77s,Not Attentive,happy,-18,20,0
+267.88s,Not Attentive,happy,-16,22,0
+267.98s,Attentive,neutral,-17,22,-1
+268.08s,Not Attentive,neutral,-18,24,-2
+268.19s,Attentive,neutral,-18,23,-3
+268.31s,Not Attentive,neutral,-16,24,-5
+268.42s,Attentive,neutral,-14,25,-7
+268.52s,Not Attentive,neutral,-11,21,-6
+268.62s,Attentive,neutral,-10,23,-4
+268.73s,Not Attentive,neutral,-7,26,-4
+268.84s,Attentive,neutral,-1,25,-3
+268.94s,Attentive,neutral,-3,25,-2
+269.05s,Attentive,neutral,0,23,-2
+269.15s,Not Attentive,neutral,3,21,0
+269.26s,Not Attentive,neutral,4,21,0
+269.37s,Attentive,neutral,5,22,0
+269.47s,Attentive,neutral,6,21,-1
+269.58s,Attentive,neutral,5,22,-2
+269.69s,Attentive,neutral,3,21,-3
+269.79s,Attentive,neutral,3,22,-3
+269.90s,Attentive,neutral,0,21,-4
+270.00s,Attentive,neutral,-10,19,-7
+270.11s,Attentive,neutral,-11,18,-9
+270.21s,Attentive,neutral,-18,18,-11
+270.32s,Attentive,neutral,-24,18,-13
+270.42s,Not Attentive,neutral,-26,21,-16
+270.54s,Not Attentive,neutral,-34,10,-12
+270.64s,Not Attentive,sad,-34,10,-13
+270.75s,Not Attentive,sad,-38,8,-7
+270.86s,Not Attentive,sad,-40,9,-10
+270.96s,Not Attentive,neutral,-31,-2,0
+271.07s,Not Attentive,sad,-40,1,-4
+271.17s,Not Attentive,sad,-45,12,-11
+271.28s,Not Attentive,neutral,-43,3,-2
+271.38s,Not Attentive,neutral,-44,10,-7
+271.49s,Not Attentive,sad,-44,15,-11
+271.59s,Not Attentive,sad,-40,7,-6
+271.69s,Not Attentive,sad,-37,10,-9
+271.80s,Not Attentive,neutral,-37,12,-10
+271.91s,Not Attentive,sad,-35,14,-11
+272.01s,Not Attentive,neutral,-29,5,1
+272.12s,Not Attentive,sad,-35,17,-11
+272.22s,Not Attentive,sad,-32,8,-4
+272.33s,Not Attentive,neutral,-31,14,-8
+272.43s,Not Attentive,sad,-26,17,-10
+272.54s,Not Attentive,neutral,-27,15,-7
+272.64s,Attentive,sad,-14,16,-1
+272.75s,Attentive,neutral,-17,21,-6
+272.86s,Attentive,neutral,-13,21,-3
+272.97s,Attentive,neutral,-10,20,-3
+273.07s,Attentive,neutral,-3,22,-2
+273.18s,Attentive,neutral,0,21,-1
+273.28s,Attentive,neutral,2,21,0
+273.39s,Attentive,neutral,3,19,0
+273.49s,Attentive,neutral,6,18,0
+273.78s,Attentive,neutral,4,17,0
+273.91s,Attentive,neutral,-3,15,-3
+274.06s,Attentive,neutral,-5,18,-3
+274.23s,Attentive,neutral,-10,17,-5
+274.39s,Attentive,neutral,-12,17,-6
+274.54s,Attentive,neutral,-15,15,-7
+274.69s,Attentive,neutral,-16,15,-7
+274.84s,Attentive,neutral,-16,16,-7
+274.98s,Attentive,neutral,-17,18,-8
+275.12s,Attentive,neutral,-24,15,-8
+275.27s,Attentive,neutral,-24,17,-9
+275.41s,Not Attentive,happy,-26,13,-8
+275.55s,Not Attentive,neutral,-28,18,-10
+275.68s,Not Attentive,neutral,-28,13,-8
+275.82s,Not Attentive,neutral,-30,10,-7
+275.96s,Not Attentive,happy,-30,16,-11
+276.08s,Not Attentive,happy,-29,15,-9
+276.22s,Not Attentive,neutral,-29,10,-8
+276.35s,Not Attentive,neutral,-29,8,-6
+276.47s,Not Attentive,neutral,-32,12,-12
+276.60s,Not Attentive,sad,-29,9,-7
+276.73s,Not Attentive,neutral,-37,8,-3
+276.85s,Not Attentive,angry,-39,-2,3
+276.96s,Not Attentive,sad,-35,1,0
+277.07s,Not Attentive,neutral,-41,4,1
+277.17s,Not Attentive,neutral,-42,0,5
+277.27s,Not Attentive,sad,-45,0,3
+277.32s,Not Attentive,sad,-45,0,3
+277.37s,Not Attentive,sad,-45,0,3
+277.48s,Not Attentive,sad,-40,8,0
+277.52s,Not Attentive,sad,-40,8,0
+277.63s,Not Attentive,sad,-41,3,0
+277.74s,Not Attentive,neutral,-40,1,2
+277.79s,Not Attentive,neutral,-40,1,2
+277.84s,Not Attentive,neutral,-40,1,2
+277.89s,Not Attentive,neutral,-40,1,2
+277.94s,Not Attentive,neutral,-40,1,2
+277.99s,Not Attentive,neutral,-40,1,2
+278.04s,Not Attentive,neutral,-40,1,2
+278.08s,Not Attentive,neutral,-40,1,2
+278.14s,Not Attentive,neutral,-40,1,2
+278.18s,Not Attentive,neutral,-40,1,2
+278.23s,Not Attentive,neutral,-40,1,2
+278.28s,Not Attentive,neutral,-40,1,2
+278.33s,Not Attentive,neutral,-40,1,2
+278.38s,Not Attentive,neutral,-40,1,2
+278.43s,Not Attentive,neutral,-40,1,2
+278.48s,Not Attentive,neutral,-40,1,2
+278.53s,Not Attentive,neutral,-40,1,2
+278.58s,Not Attentive,neutral,-40,1,2
+278.63s,Not Attentive,neutral,-40,1,2
+278.68s,Not Attentive,neutral,-40,1,2
+278.72s,Not Attentive,neutral,-40,1,2
+278.77s,Not Attentive,neutral,-40,1,2
+278.82s,Not Attentive,neutral,-40,1,2
+278.93s,Not Attentive,neutral,-40,0,2
+278.98s,Not Attentive,neutral,-40,0,2
+279.09s,Not Attentive,neutral,-39,1,2
+279.19s,Not Attentive,sad,-34,2,1
+279.24s,Not Attentive,sad,-34,2,1
+279.29s,Not Attentive,sad,-34,2,1
+279.34s,Not Attentive,sad,-34,2,1
+279.39s,Not Attentive,sad,-34,2,1
+279.44s,Not Attentive,sad,-34,2,1
+279.48s,Not Attentive,sad,-34,2,1
+279.53s,Not Attentive,sad,-34,2,1
+279.58s,Not Attentive,sad,-34,2,1
+279.63s,Not Attentive,sad,-34,2,1
+279.68s,Not Attentive,sad,-34,2,1
+279.73s,Not Attentive,sad,-34,2,1
+279.78s,Not Attentive,sad,-34,2,1
+279.83s,Not Attentive,sad,-34,2,1
+279.88s,Not Attentive,sad,-34,2,1
+279.92s,Not Attentive,sad,-34,2,1
+279.97s,Not Attentive,sad,-34,2,1
+280.02s,Not Attentive,sad,-34,2,1
+280.13s,Not Attentive,neutral,-44,-4,5
+280.18s,Not Attentive,neutral,-44,-4,5
+280.22s,Not Attentive,neutral,-44,-4,5
+280.27s,Not Attentive,neutral,-44,-4,5
+280.32s,Not Attentive,neutral,-44,-4,5
+280.43s,Not Attentive,sad,-39,-4,2
+280.53s,Not Attentive,sad,-43,-2,3
+280.58s,Not Attentive,sad,-43,-2,3
+280.69s,Not Attentive,sad,-45,-1,5
+280.79s,Not Attentive,sad,-45,0,4
+280.84s,Not Attentive,sad,-45,0,4
+280.89s,Not Attentive,sad,-45,0,4
+280.94s,Not Attentive,sad,-45,0,4
+281.05s,Not Attentive,sad,-41,1,0
+281.15s,Not Attentive,sad,-44,-4,5
+281.25s,Not Attentive,sad,-46,4,0
+281.36s,Not Attentive,sad,-45,-1,0
+281.41s,Not Attentive,sad,-45,-1,0
+281.52s,Not Attentive,sad,-43,-3,2
+281.62s,Not Attentive,happy,-43,-5,5
+281.67s,Not Attentive,happy,-43,-5,5
+281.72s,Not Attentive,happy,-43,-5,5
+281.82s,Not Attentive,sad,-45,5,-2
+281.93s,Not Attentive,sad,-41,0,4
+282.03s,Not Attentive,sad,-34,0,1
+282.14s,Not Attentive,sad,-32,0,0
+282.24s,Not Attentive,neutral,-29,7,-2
+282.35s,Not Attentive,happy,-27,5,0
+282.45s,Attentive,neutral,-22,4,1
+282.55s,Attentive,neutral,-21,3,2
+282.66s,Attentive,neutral,-15,4,3
+282.77s,Attentive,neutral,-13,3,4
+282.87s,Attentive,neutral,-7,4,5
+282.98s,Attentive,neutral,-3,10,8
+283.08s,Attentive,neutral,4,7,11
+283.19s,Attentive,neutral,8,7,13
+283.29s,Attentive,neutral,17,0,13
+283.40s,Attentive,neutral,18,10,20
+283.50s,Not Attentive,neutral,28,-5,6
+283.60s,Attentive,neutral,25,3,23
+283.65s,Attentive,neutral,25,3,23
+283.70s,Attentive,neutral,25,3,23
+283.75s,Attentive,neutral,25,3,23
+283.80s,Attentive,neutral,25,3,23
+283.85s,Attentive,neutral,25,3,23
+283.90s,Attentive,neutral,25,3,23
+283.95s,Attentive,neutral,25,3,23
+284.00s,Attentive,neutral,25,3,23
+284.04s,Attentive,neutral,25,3,23
+284.09s,Attentive,neutral,25,3,23
+284.14s,Attentive,neutral,25,3,23
+284.19s,Attentive,neutral,25,3,23
+284.24s,Attentive,neutral,25,3,23
+284.29s,Attentive,neutral,25,3,23
+284.33s,Attentive,neutral,25,3,23
+284.38s,Attentive,neutral,25,3,23
+284.43s,Attentive,neutral,25,3,23
+284.48s,Attentive,neutral,25,3,23
+284.53s,Attentive,neutral,25,3,23
+284.58s,Attentive,neutral,25,3,23
+284.63s,Attentive,neutral,25,3,23
+284.68s,Attentive,neutral,25,3,23
+284.74s,Attentive,neutral,25,3,23
+284.79s,Attentive,neutral,25,3,23
+284.84s,Attentive,neutral,25,3,23
+284.89s,Attentive,neutral,25,3,23
+284.94s,Attentive,neutral,25,3,23
+284.99s,Attentive,neutral,25,3,23
+285.04s,Attentive,neutral,25,3,23
+285.08s,Attentive,neutral,25,3,23
+285.13s,Attentive,neutral,25,3,23
+285.18s,Attentive,neutral,25,3,23
+285.23s,Attentive,neutral,25,3,23
+285.28s,Attentive,neutral,25,3,23
+285.33s,Attentive,neutral,25,3,23
+285.37s,Attentive,neutral,25,3,23
+285.42s,Attentive,neutral,25,3,23
+285.47s,Attentive,neutral,25,3,23
+285.52s,Attentive,neutral,25,3,23
+285.57s,Attentive,neutral,25,3,23
+285.62s,Attentive,neutral,25,3,23
+285.66s,Attentive,neutral,25,3,23
+285.71s,Attentive,neutral,25,3,23
+285.76s,Attentive,neutral,25,3,23
+285.81s,Attentive,neutral,25,3,23
+285.86s,Attentive,neutral,25,3,23
+285.91s,Attentive,neutral,25,3,23
+285.96s,Attentive,neutral,25,3,23
+286.01s,Attentive,neutral,25,3,23
+286.05s,Attentive,neutral,25,3,23
+286.10s,Attentive,neutral,25,3,23
+286.15s,Attentive,neutral,25,3,23
+286.20s,Attentive,neutral,25,3,23
+286.25s,Attentive,neutral,25,3,23
+286.30s,Attentive,neutral,25,3,23
+286.35s,Attentive,neutral,25,3,23
+286.40s,Attentive,neutral,25,3,23
+286.44s,Attentive,neutral,25,3,23
+286.49s,Attentive,neutral,25,3,23
+286.54s,Attentive,neutral,25,3,23
+286.59s,Attentive,neutral,25,3,23
+286.64s,Attentive,neutral,25,3,23
+286.69s,Attentive,neutral,25,3,23
+286.74s,Attentive,neutral,25,3,23
+286.79s,Attentive,neutral,25,3,23
+286.83s,Attentive,neutral,25,3,23
+286.89s,Attentive,neutral,25,3,23
+286.94s,Attentive,neutral,25,3,23
+286.98s,Attentive,neutral,25,3,23
+287.03s,Attentive,neutral,25,3,23
+287.08s,Attentive,neutral,25,3,23
+287.13s,Attentive,neutral,25,3,23
+287.18s,Attentive,neutral,25,3,23
+287.23s,Attentive,neutral,25,3,23
+287.28s,Attentive,neutral,25,3,23
+287.32s,Attentive,neutral,25,3,23
+287.37s,Attentive,neutral,25,3,23
+287.42s,Attentive,neutral,25,3,23
+287.47s,Attentive,neutral,25,3,23
+287.52s,Attentive,neutral,25,3,23
+287.57s,Attentive,neutral,25,3,23
+287.62s,Attentive,neutral,25,3,23
+287.66s,Attentive,neutral,25,3,23
+287.71s,Attentive,neutral,25,3,23
+287.76s,Attentive,neutral,25,3,23
+287.81s,Attentive,neutral,25,3,23
+287.86s,Attentive,neutral,25,3,23
+287.91s,Attentive,neutral,25,3,23
+287.96s,Attentive,neutral,25,3,23
+288.01s,Attentive,neutral,25,3,23
+288.05s,Attentive,neutral,25,3,23
+288.10s,Attentive,neutral,25,3,23
+288.15s,Attentive,neutral,25,3,23
+288.20s,Attentive,neutral,25,3,23
+288.25s,Attentive,neutral,25,3,23
+288.30s,Attentive,neutral,25,3,23
+288.34s,Attentive,neutral,25,3,23
+288.39s,Attentive,neutral,25,3,23
+288.44s,Attentive,neutral,25,3,23
+288.49s,Attentive,neutral,25,3,23
+288.54s,Attentive,neutral,25,3,23
+288.59s,Attentive,neutral,25,3,23
+288.64s,Attentive,neutral,25,3,23
+288.74s,Not Attentive,neutral,-35,6,10
+288.85s,Attentive,neutral,11,22,28
+288.95s,Not Attentive,neutral,0,26,20
+289.00s,Not Attentive,neutral,0,26,20
+289.05s,Not Attentive,neutral,0,26,20
+289.10s,Not Attentive,neutral,0,26,20
+289.21s,Attentive,neutral,-9,30,0
+289.31s,Not Attentive,sad,-8,27,-4
+289.41s,Attentive,sad,-8,25,-5
+289.52s,Not Attentive,neutral,-7,27,-8
+289.62s,Attentive,neutral,-7,27,-8
+289.73s,Attentive,neutral,-9,20,-5
+289.83s,Attentive,neutral,-7,20,-9
+289.94s,Attentive,neutral,-2,22,-8
+290.04s,Attentive,neutral,-6,20,-7
+290.14s,Attentive,neutral,-10,20,-11
+290.25s,Attentive,neutral,-10,18,-10
+290.35s,Attentive,neutral,-15,14,-9
+290.46s,Attentive,neutral,-8,16,-11
+290.56s,Attentive,neutral,-18,9,-8
+290.67s,Not Attentive,sad,-33,9,-8
+290.77s,Not Attentive,neutral,-36,13,-12
+290.88s,Not Attentive,sad,-37,9,-9
+290.98s,Not Attentive,neutral,-38,10,-10
+291.09s,Not Attentive,neutral,-39,10,-10
+291.19s,Not Attentive,neutral,-37,10,-10
+291.29s,Not Attentive,sad,-36,13,-12
+291.40s,Not Attentive,neutral,-36,10,-9
+291.50s,Not Attentive,sad,-35,10,-10
+291.61s,Not Attentive,neutral,-35,11,-10
+291.71s,Not Attentive,neutral,-31,6,-5
+291.82s,Not Attentive,neutral,-31,12,-11
+291.92s,Not Attentive,neutral,-34,14,-13
+292.02s,Not Attentive,neutral,-32,11,-11
+292.13s,Not Attentive,neutral,-31,10,-10
+292.23s,Attentive,sad,-22,9,-8
+292.34s,Attentive,neutral,-11,19,-9
+292.44s,Attentive,neutral,-9,18,-8
+292.55s,Not Attentive,neutral,-5,19,-4
+292.65s,Attentive,neutral,0,19,-2
+292.75s,Not Attentive,neutral,-1,18,-1
+292.86s,Attentive,neutral,-4,16,-2
+292.97s,Attentive,neutral,-4,15,-2
+293.07s,Attentive,neutral,-12,14,-5
+293.18s,Attentive,neutral,-15,12,-5
+293.28s,Attentive,neutral,-16,12,-4
+293.41s,Attentive,neutral,-18,14,-2
+293.52s,Attentive,neutral,-24,14,-4
+293.64s,Attentive,neutral,-25,12,-3
+293.75s,Attentive,neutral,-22,10,-2
+293.85s,Not Attentive,neutral,-20,15,-2
+293.96s,Attentive,neutral,-21,11,-3
+294.06s,Attentive,neutral,-22,10,-4
+294.17s,Attentive,neutral,-21,9,-6
+294.28s,Attentive,neutral,-16,9,-5
+294.39s,Attentive,neutral,-14,9,-1
+294.49s,Attentive,neutral,-21,10,-3
+294.60s,Attentive,neutral,-24,10,-3
+294.71s,Attentive,neutral,-22,12,-3
+294.81s,Attentive,neutral,-18,13,-4
+294.92s,Attentive,neutral,-15,16,-5
+295.03s,Attentive,neutral,-17,15,-5
+295.13s,Attentive,neutral,-15,13,-7
+295.24s,Attentive,neutral,-15,13,-7
+295.34s,Attentive,neutral,-15,17,-6
+295.45s,Attentive,neutral,-19,13,-5
+295.56s,Attentive,neutral,-18,13,-3
+295.66s,Attentive,neutral,-16,11,-2
+295.99s,Attentive,neutral,-20,9,-3
+296.13s,Not Attentive,neutral,-19,9,-3
+296.24s,Attentive,neutral,-22,9,-7
+296.34s,Attentive,neutral,-17,9,-7
+296.46s,Attentive,happy,-12,12,-7
+296.57s,Attentive,neutral,-13,9,-6
+296.67s,Attentive,neutral,-11,10,-6
+296.79s,Attentive,neutral,-10,12,-5
+296.91s,Attentive,neutral,-17,11,-7
+297.01s,Attentive,neutral,-14,11,-7
+297.12s,Attentive,neutral,-10,13,-5
+297.23s,Attentive,neutral,-11,13,-7
+297.34s,Attentive,neutral,-11,13,-7
+297.44s,Not Attentive,neutral,-9,15,-7
+297.54s,Attentive,neutral,-9,16,-8
+297.65s,Attentive,neutral,-11,13,-9
+297.75s,Attentive,neutral,-8,15,-9
+297.86s,Attentive,neutral,-7,16,-8
+297.96s,Attentive,neutral,-5,13,-8
+298.07s,Attentive,neutral,-4,17,-8
+298.18s,Attentive,neutral,-7,14,-9
+298.28s,Attentive,neutral,-3,16,-8
+298.39s,Attentive,neutral,-3,13,-8
+298.49s,Attentive,neutral,-2,13,-8
+298.60s,Attentive,neutral,0,12,-6
+298.71s,Not Attentive,neutral,3,13,-1
+298.81s,Not Attentive,neutral,6,16,2
+298.92s,Attentive,neutral,6,11,6
+299.02s,Attentive,neutral,7,10,7
+299.13s,Attentive,neutral,8,12,9
+299.23s,Attentive,neutral,5,11,7
+299.34s,Attentive,neutral,4,11,7
+299.44s,Attentive,neutral,3,11,7
+299.55s,Attentive,neutral,4,12,7
+299.65s,Attentive,neutral,4,11,6
+299.76s,Attentive,neutral,1,12,6
+299.86s,Attentive,neutral,2,11,6
+299.97s,Attentive,neutral,2,11,6
+300.08s,Attentive,neutral,3,10,6
+300.18s,Attentive,neutral,1,9,4
+300.29s,Attentive,neutral,0,9,5
+300.39s,Attentive,neutral,0,9,4
+300.50s,Attentive,neutral,-1,9,4
+300.60s,Attentive,neutral,-1,9,4
+300.71s,Attentive,neutral,0,9,3
+300.82s,Attentive,neutral,-2,7,2
+300.92s,Attentive,neutral,-1,6,3
+301.03s,Attentive,neutral,1,8,2
+301.13s,Attentive,neutral,0,7,2
+301.24s,Attentive,neutral,-1,6,3
+301.34s,Attentive,neutral,-2,8,3
+301.45s,Attentive,neutral,0,9,3
+301.56s,Attentive,neutral,0,8,3
+301.66s,Attentive,neutral,0,7,3
+301.77s,Attentive,neutral,-2,8,2
+301.88s,Attentive,neutral,-1,8,2
+301.98s,Attentive,neutral,-1,7,1
+302.08s,Attentive,neutral,-1,9,2
+302.19s,Attentive,neutral,0,7,2
+302.30s,Not Attentive,neutral,-1,7,1
+302.40s,Not Attentive,neutral,-2,10,1
+302.51s,Not Attentive,neutral,-1,12,2
+302.61s,Attentive,neutral,-3,9,1
+302.72s,Attentive,neutral,-4,8,1
+302.82s,Attentive,neutral,-1,11,2
+302.93s,Attentive,neutral,-2,11,2
+303.04s,Attentive,neutral,-2,12,2
+303.14s,Attentive,neutral,-4,13,2
+303.25s,Attentive,neutral,-3,12,2
+303.35s,Attentive,neutral,-3,13,2
+303.46s,Attentive,neutral,-4,13,2
+303.56s,Attentive,neutral,-3,14,2
+303.67s,Attentive,neutral,-3,15,2
+303.78s,Attentive,neutral,-2,14,1
+303.89s,Attentive,neutral,-3,13,2
+303.99s,Attentive,neutral,-5,12,2
+304.10s,Attentive,neutral,-3,15,2
+304.20s,Attentive,neutral,-4,16,1
+304.31s,Attentive,neutral,-4,16,1
+304.41s,Not Attentive,neutral,-6,14,0
+304.53s,Not Attentive,neutral,-6,15,0
+304.63s,Not Attentive,neutral,-3,17,1
+304.73s,Attentive,neutral,-4,16,1
+304.84s,Attentive,neutral,-3,17,1
+304.95s,Attentive,neutral,-5,17,1
+305.06s,Attentive,neutral,-4,16,0
+305.16s,Attentive,neutral,-4,15,1
+305.27s,Attentive,neutral,-6,15,1
+305.37s,Attentive,neutral,-3,16,1
+305.47s,Attentive,neutral,-7,15,0
+305.58s,Attentive,neutral,-3,15,1
+305.69s,Attentive,neutral,-5,15,0
+305.79s,Not Attentive,neutral,-6,15,0
+305.90s,Attentive,neutral,-8,13,1
+306.00s,Not Attentive,neutral,-7,15,0
+306.11s,Attentive,neutral,-9,14,-1
+306.21s,Attentive,neutral,-8,14,-1
+306.32s,Attentive,neutral,-10,13,-3
+306.42s,Attentive,neutral,-9,13,-3
+306.53s,Attentive,neutral,-12,13,-4
+306.63s,Attentive,neutral,-16,10,-5
+306.76s,Attentive,neutral,-10,13,-5
+306.89s,Attentive,neutral,-10,13,-4
+307.00s,Attentive,neutral,-10,12,-4
+307.10s,Attentive,neutral,-7,13,-3
+307.21s,Attentive,neutral,-6,14,-4
+307.31s,Attentive,neutral,-5,13,-4
+307.42s,Attentive,neutral,-11,11,-6
+307.53s,Attentive,neutral,-12,10,-6
+307.63s,Attentive,neutral,-10,10,-6
+307.74s,Attentive,neutral,-8,10,-5
+307.84s,Attentive,neutral,-7,10,-6
+307.95s,Attentive,neutral,-7,11,-7
+308.05s,Attentive,neutral,-8,10,-7
+308.16s,Not Attentive,neutral,-11,8,-5
+308.27s,Not Attentive,neutral,-8,12,-7
+308.37s,Attentive,neutral,-5,14,-7
+308.48s,Attentive,neutral,-6,13,-7
+308.58s,Attentive,neutral,-7,11,-7
+308.69s,Attentive,neutral,-6,10,-7
+308.79s,Attentive,neutral,-6,11,-7
+308.90s,Attentive,neutral,-6,10,-8
+309.01s,Attentive,neutral,-7,12,-7
+309.11s,Attentive,neutral,-7,11,-7
+309.22s,Attentive,neutral,-7,11,-6
+309.32s,Attentive,neutral,-6,11,-6
+309.43s,Attentive,neutral,-9,10,-7
+309.54s,Attentive,neutral,-9,10,-6
+309.93s,Attentive,neutral,-7,9,-6
+310.03s,Attentive,neutral,-7,11,-5
+310.14s,Attentive,neutral,-7,8,-5
+310.24s,Attentive,neutral,-9,7,-3
+310.35s,Attentive,neutral,-9,6,-4
+310.46s,Attentive,neutral,-9,6,-3
+310.57s,Attentive,neutral,-8,5,-3
+310.67s,Attentive,neutral,-10,7,-4
+310.78s,Not Attentive,neutral,-10,9,-3
+310.83s,Not Attentive,neutral,-10,9,-3
+310.88s,Not Attentive,neutral,-10,9,-3
+310.92s,Not Attentive,neutral,-10,9,-3
+310.97s,Not Attentive,neutral,-10,9,-3
+311.02s,Not Attentive,neutral,-10,9,-3
+311.07s,Not Attentive,neutral,-10,9,-3
+311.17s,Attentive,neutral,-8,9,-4
+311.28s,Attentive,neutral,-10,7,-5
+311.39s,Attentive,neutral,-11,4,-4
+311.49s,Attentive,neutral,-9,6,-5
+311.60s,Attentive,neutral,-11,4,-5
+311.70s,Attentive,neutral,-10,4,-5
+311.81s,Attentive,neutral,-8,6,-5
+311.91s,Attentive,neutral,-10,5,-5
+312.02s,Attentive,neutral,-10,5,-5
+312.12s,Attentive,neutral,-10,6,-5
+312.23s,Attentive,neutral,-8,5,-5
+312.33s,Attentive,neutral,-10,4,-5
+312.44s,Attentive,neutral,-9,5,-5
+312.55s,Attentive,neutral,-9,4,-5
+312.65s,Attentive,neutral,-10,4,-5
+312.76s,Attentive,neutral,-10,3,-6
+312.86s,Attentive,neutral,-11,4,-5
+312.97s,Attentive,neutral,-11,4,-5
+313.08s,Attentive,neutral,-9,5,-5
+313.18s,Not Attentive,neutral,-11,8,-5
+313.29s,Attentive,neutral,-10,6,-5
+313.40s,Attentive,neutral,-9,7,-5
+313.50s,Attentive,neutral,-9,7,-6
+313.61s,Attentive,neutral,-9,6,-5
+313.71s,Attentive,neutral,-9,7,-5
+313.82s,Attentive,neutral,-10,6,-5
+313.92s,Attentive,neutral,-9,6,-5
+314.03s,Not Attentive,neutral,-8,9,-5
+314.14s,Attentive,neutral,-10,6,-6
+314.24s,Attentive,neutral,-9,7,-6
+314.35s,Attentive,neutral,-10,7,-5
+314.45s,Attentive,neutral,-9,7,-5
+314.56s,Attentive,neutral,-9,7,-4
+314.66s,Not Attentive,neutral,-9,8,-6
+314.77s,Attentive,neutral,-10,7,-6
+314.88s,Attentive,neutral,-10,7,-5
+314.99s,Attentive,neutral,-8,8,-5
+315.09s,Attentive,neutral,-9,7,-5
+315.19s,Attentive,neutral,-10,7,-6
+315.30s,Attentive,neutral,-9,8,-5
+315.41s,Not Attentive,neutral,-10,7,-5
+315.51s,Not Attentive,neutral,-8,8,-6
+315.62s,Attentive,neutral,-8,7,-5
+315.72s,Attentive,neutral,-9,7,-5
+315.82s,Attentive,neutral,-9,7,-6
+315.93s,Attentive,neutral,-10,7,-6
+316.03s,Not Attentive,neutral,-9,7,-5
+316.14s,Attentive,neutral,-12,4,-5
+316.24s,Not Attentive,neutral,-7,9,-5
+316.36s,Attentive,neutral,-8,7,-4
+316.47s,Attentive,neutral,-9,7,-5
+316.57s,Attentive,neutral,-8,6,-5
+316.68s,Attentive,neutral,-8,8,-5
+316.78s,Attentive,neutral,-9,6,-4
+316.90s,Attentive,neutral,-9,5,-4
+317.00s,Attentive,neutral,-9,7,-5
+317.11s,Attentive,neutral,-10,6,-5
+317.21s,Attentive,neutral,-6,7,-4
+317.32s,Attentive,neutral,-2,8,-4
+317.42s,Attentive,neutral,0,6,-4
+317.53s,Attentive,neutral,3,6,-2
+317.63s,Attentive,neutral,15,5,0
+317.76s,Not Attentive,neutral,40,0,0
+317.81s,Not Attentive,neutral,40,0,0
+317.86s,Not Attentive,neutral,40,0,0
+317.91s,Not Attentive,neutral,40,0,0
+317.96s,Not Attentive,neutral,40,0,0
+318.01s,Not Attentive,neutral,40,0,0
+318.06s,Not Attentive,neutral,40,0,0
+318.11s,Not Attentive,neutral,40,0,0
+318.15s,Not Attentive,neutral,40,0,0
+318.20s,Not Attentive,neutral,40,0,0
+318.25s,Not Attentive,neutral,40,0,0
+318.30s,Not Attentive,neutral,40,0,0
+318.35s,Not Attentive,neutral,40,0,0
+318.40s,Not Attentive,neutral,40,0,0
+318.45s,Not Attentive,neutral,40,0,0
+318.50s,Not Attentive,neutral,40,0,0
+318.55s,Not Attentive,neutral,40,0,0
+318.59s,Not Attentive,neutral,40,0,0
+318.64s,Not Attentive,neutral,40,0,0
+318.69s,Not Attentive,neutral,40,0,0
+318.80s,Not Attentive,sad,40,1,7
+318.91s,Not Attentive,sad,36,-2,5
+318.95s,Not Attentive,sad,36,-2,5
+319.00s,Not Attentive,sad,36,-2,5
+319.05s,Not Attentive,sad,36,-2,5
+319.10s,Not Attentive,sad,36,-2,5
+319.15s,Not Attentive,sad,36,-2,5
+319.20s,Not Attentive,sad,36,-2,5
+319.25s,Not Attentive,sad,36,-2,5
+319.35s,Attentive,neutral,8,14,8
+319.46s,Attentive,neutral,5,16,7
+319.57s,Attentive,neutral,4,16,6
+319.68s,Attentive,neutral,0,17,6
+319.78s,Attentive,neutral,-6,15,4
+319.89s,Attentive,neutral,-6,17,5
+319.99s,Attentive,neutral,-8,15,7
+320.04s,Attentive,neutral,-8,15,7
+320.09s,Attentive,neutral,-8,15,7
+320.14s,Attentive,neutral,-8,15,7
+320.19s,Attentive,neutral,-8,15,7
+320.24s,Attentive,neutral,-8,15,7
+320.29s,Attentive,neutral,-8,15,7
+320.34s,Attentive,neutral,-8,15,7
+320.39s,Attentive,neutral,-8,15,7
+320.43s,Attentive,neutral,-8,15,7
+320.54s,Attentive,neutral,-13,21,2
+320.59s,Attentive,neutral,-13,21,2
+320.64s,Attentive,neutral,-13,21,2
+320.68s,Attentive,neutral,-13,21,2
+320.73s,Attentive,neutral,-13,21,2
+320.78s,Attentive,neutral,-13,21,2
+320.83s,Attentive,neutral,-13,21,2
+320.88s,Attentive,neutral,-13,21,2
+320.93s,Attentive,neutral,-13,21,2
+320.98s,Attentive,neutral,-13,21,2
+321.03s,Attentive,neutral,-13,21,2
+321.16s,Not Attentive,neutral,-17,14,0
+321.30s,Attentive,neutral,-16,10,2
+321.40s,Attentive,neutral,-14,11,0
+321.51s,Attentive,neutral,-8,11,0
+321.61s,Attentive,neutral,-5,12,0
+321.72s,Attentive,neutral,-6,9,-1
+321.82s,Attentive,neutral,-5,9,0
+321.93s,Attentive,neutral,-7,6,0
+322.04s,Attentive,neutral,-7,8,-2
+322.14s,Not Attentive,neutral,-8,11,-2
+322.25s,Attentive,neutral,-8,9,-2
+322.35s,Attentive,neutral,-5,9,-1
+322.46s,Attentive,neutral,-9,9,0
+322.57s,Attentive,neutral,-10,9,0
+322.67s,Attentive,neutral,-4,7,0
+322.78s,Attentive,neutral,-6,9,0
+322.89s,Attentive,neutral,-5,11,-1
+322.99s,Attentive,neutral,-2,13,0
+323.10s,Attentive,neutral,0,13,0
+323.20s,Attentive,neutral,8,14,1
+323.31s,Attentive,neutral,4,14,1
+323.41s,Attentive,neutral,2,12,1
+323.52s,Attentive,neutral,0,12,0
+323.62s,Attentive,neutral,-3,13,0
+323.73s,Attentive,neutral,-5,11,0
+323.84s,Attentive,neutral,-6,11,0
+323.95s,Attentive,neutral,-8,13,0
+324.05s,Attentive,neutral,-8,13,-1
+324.16s,Attentive,neutral,-10,13,0
+324.26s,Attentive,neutral,-8,13,-1
+324.37s,Attentive,neutral,-11,12,-2
